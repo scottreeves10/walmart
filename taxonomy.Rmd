@@ -39,12 +39,12 @@ For Taxonomy API, the only parameter you need to specify is "format" (either jso
 taxonomy_url <- "http://api.walmartlabs.com/v1/taxonomy?apiKey=[Your API Key Here]&format=json".
 
 ```{r}
-taxonaomy_list <- jsonlite::read_json(taxonomy_url)
+taxonomy_list <- jsonlite::read_json(taxonomy_url)
 ```
 
 ```{r}
 # Return 31 categories as of 5/22/2018
-length(taxonaomy_list$categories)
+length(taxonomy_list$categories)
 ```
 
 ```{r}
@@ -54,10 +54,10 @@ df = data.frame(Parent_Category = character(0))
 
 ```{r}
 # Create a taxonomy dataframe containing parent category id, parent category title, and total number of related categories
-for (j in (1:length(taxonaomy_list$categories))){
-  k1 = taxonaomy_list$categories[[j]]$id
-  k2 = taxonaomy_list$categories[[j]]$name
-  k3 = length(taxonaomy_list$categories[[j]]$children)
+for (j in (1:length(taxonomy_list$categories))){
+  k1 = taxonomy_list$categories[[j]]$id
+  k2 = taxonomy_list$categories[[j]]$name
+  k3 = length(taxonomy_list$categories[[j]]$children)
   df2 <- data.frame(Parent_Category_ID = k1,
                    Parent_Category_Title= k2,
                    Total_Related_Category = k3)
