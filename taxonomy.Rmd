@@ -14,6 +14,10 @@ output:
 knitr::opts_chunk$set(comment="#>")
 ```
 
+CREDIT: Korkrid Kyle Akepanidtaworn
+https://medium.com/@kyleake/how-to-extract-data-from-walmart-open-api-efd01a2f91e0
+
+
 ```{r}
 # Setup
 library(jsonlite) # Convert R objects to/from JSON
@@ -31,5 +35,44 @@ key = getOption("api_key")
 taxonomy_url <- paste("http://api.walmartlabs.com/v1/taxonomy?apiKey=", key, "&format=json", sep="")
 ```
 
+For Taxonomy API, the only parameter you need to specify is "format" (either json or 
+taxonomy_url <- "http://api.walmartlabs.com/v1/taxonomy?apiKey=[Your API Key Here]&format=json".
 
+```{r}
+taxonaomy_list <- jsonlite::read_json(taxonomy_url)
+```
+
+```{r}
+# Return 31 categories as of 5/22/2018
+length(taxonaomy_list$categories)
+```
+
+```{r}
+# Create an empty data frame
+df = data.frame(Parent_Category = character(0))
+```
+
+```{r}
+# Create a taxonomy dataframe containing parent category id, parent category title, and total number of related categories
+for (j in (1:length(taxonaomy_list$categories))){
+  k1 = taxonaomy_list$categories[[j]]$id
+  k2 = taxonaomy_list$categories[[j]]$name
+  k3 = length(taxonaomy_list$categories[[j]]$children)
+  df2 <- data.frame(Parent_Category_ID = k1,
+                   Parent_Category_Title= k2,
+                   Total_Related_Category = k3)
+  df <- rbind(df, df2)
+}
+
+```
+
+```{r}
+rm(df2)
+
+```
+
+```{r}
+head(df, 10)
+
+```
 
