@@ -1,0 +1,292 @@
+---
+title: How I converted Walmart's JSON product catalog taxonomy into a data frame in
+  R
+author: "Scott Reeves"
+date: "May 29, 2018"
+output:
+  html_document:
+    df_print: paged
+  pdf_document: default
+colorlinks: yes
+urlcolor: blue
+---
+
+```{r knitr, include=FALSE}
+knitr::opts_chunk$set(comment="#>")
+```
+
+# JSON nested lists to R Data Frame
+Shown below is how I converted Walmart's product catalog taxonomy into a data frame in R.
+
+### About Walmart's Taxonomy API
+Walmart's ["Walmart Open API"](https://developer.walmartlabs.com/) is currently in beta. 
+
+>Walmart is the world's largest retailer, and the Walmart Open API provides access to our extensive product catalog, thus enabling digital distribution partners to earn substantial affiliate revenues from customer referrals.
+
+>The [Taxonomy API](https://developer.walmartlabs.com/docs/read/Taxonomy_API) exposes the category taxonomy used by walmart.com to categorize items. It describes three levels as available on Walmart.com.
+
+>* Departments
+* Categories
+* Sub-categories
+
+>It is possible to specify the exact category as a parameter when using any of the API's below:
+
+>* Search
+* Data feeds 
+* Special feeds - [Pre-order, Best sellers, Rollbacks, Clearance and Special buys]
+
+>For example, Search API can be restricted to search within a category by supplying id as per the taxonomy. Similarly, Feed API can be used to download category specific feeds by specifying a category id.
+
+>For the Taxonomy API, the only parameter you need to specify is "format" (either json or xml)
+taxonomy_url <- "http://api.walmartlabs.com/v1/taxonomy?apiKey=[Your API Key Here]&format=json".
+
+# R programming
+
+## Setup
+
+```{r message=FALSE, warning=FALSE, paged.print=FALSE}
+
+library(jsonlite)  #to read in JSON data
+library(tidyverse) #for glimpse
+
+```
+
+## Get JSON data
+
+### Option 1: ingest from web in JSON
+
+```{r eval=FALSE, include=TRUE}
+
+# Get API key from .Rprofile
+
+# When getting data over the web or pushing files to GitHub
+# it is a best practice to keep your API key hidden
+
+key = getOption("api_key")
+
+# Setup URL
+
+taxonomy_url <- paste("http://api.walmartlabs.com/v1/taxonomy?apiKey=", key, "&format=json", sep="")
+
+# Read data from the API website
+
+data <- jsonlite::fromJSON(taxonomy_url, flatten = TRUE)
+```
+
+### Option 2: ingest from file in JSON
+
+```{r}
+
+# Once the JSON data has been obtained and saved as a file, and if there is no need to ensure an up-to-the-minute data set
+
+# Read data from File
+
+data <- as.data.frame(jsonlite::fromJSON("taxonomy.json", flatten = TRUE))
+
+```
+
+## Explore the data
+
+For brevity, many of the exploration steps are not shown here. The crucial results of the exploration, in accordance with Walmart's vernacular, are:
+
+1. The top level is a list of 31 "departments" (called categories in the JSON file), which have an ID, a Name, a Path, and nested lists of Children.
+2. The children of the departments are in turn nested lists of "categories", which themselves have an ID, a Name, a Path, and Children.
+  + These Children may be an empty list
+3. The children of the categories are in turn nested lists of "subcategories", which themselves have an ID, a Name, and a Path, but no Children.
+  + When there are no subcategories of a category, the respective JSON values are NULL
+
+
+#### Articulate the nested lists
+
+1. Take a glimpse at the top (outer) list, and some section of each of the two inner lists. 
+2. Accumulate a vector of column names to be used in the final data frame.
+
+```{r}
+
+# outer list 0
+
+glimpse(data)
+
+
+```
+
+### Start setting up a vector of the column names, then append it for each list layer
+
+```{r}
+columns <- c("dept.id", "dept.name", "dept.path")
+
+```
+
+```{r}
+
+# inner list 1
+
+glimpse(data$categories.children[[4]])
+
+```
+
+```{r}
+
+columns <- c(columns, "cat.id", "cat.name", "cat.path")
+
+```
+
+
+```{r}
+
+# inner list 2
+
+glimpse(data$categories.children[[2]]$children[[3]])
+
+```
+
+```{r}
+
+columns <- c(columns, "subcat.id", "subcat.name", "subcat.path")
+```
+
+### Start to identify the pattern to use in a loop
+
+```{r}
+dep_id.1         <- data$categories.id[[1]]
+dep_name.1       <- data$categories.name[[1]]
+dep_path.1       <- data$categories.path[[1]]
+
+cat_id.1         <- data$categories.children[[1]]$id[[1]]
+cat_name.1       <- data$categories.children[[1]]$name[[1]]
+cat_path.1       <- data$categories.children[[1]]$path[[1]]
+
+subcat_id.1      <- data$categories.children[[1]]$children[[1]]$id
+subcat_name.1    <- data$categories.children[[1]]$children[[1]]$name
+subcat_path.1    <- data$categories.children[[1]]$children[[1]]$path
+
+```
+
+```{r eval=FALSE, include=FALSE}
+categories.df.test <- as.data.frame(cbind(dep_id.1, dep_name.1, dep_path.1, cat_id.1, cat_name.1, cat_path.1, subcat_id.1, subcat_name.1, subcat_path.1))
+names(categories.df.test) <- columns
+
+head(categories.df.test, 3)
+```
+
+```{r eval=FALSE, include=FALSE}
+cat_id.2         <- data$categories.children[[1]]$id[[2]]
+cat_name.2       <- data$categories.children[[1]]$name[[2]]
+cat_path.2       <- data$categories.children[[1]]$path[[2]]
+subcat_id.2      <- data$categories.children[[1]]$children[[2]][[1]]
+subcat_name.2    <- data$categories.children[[1]]$children[[2]][[2]]
+subcat_path.2    <- data$categories.children[[1]]$children[[2]][[3]]
+
+#same as
+
+cat_id.2         <- data$categories.children[[1]]$id[[2]]
+cat_name.2       <- data$categories.children[[1]]$name[[2]]
+cat_path.2       <- data$categories.children[[1]]$path[[2]]
+subcat_id.2      <- data$categories.children[[1]]$children[[2]]$id
+subcat_name.2    <- data$categories.children[[1]]$children[[2]]$name
+subcat_path.2    <- data$categories.children[[1]]$children[[2]]$path
+
+```
+
+
+```{r eval=FALSE, include=FALSE}
+data$categories.children[[1]]$children[[2]][[1]] == data$categories.children[[1]]$children[[2]]$id
+```
+
+## CREATE the DATA FRAME
+
+```{r}
+# function to swap NULL's for NA's
+
+checkfornull <- function(val){
+  
+  if(!is.null(val)){
+    return(val)
+  }else{
+    return(NA)
+  }
+}
+```
+
+```{r}
+# Just to be sure, display columns as constructed in previous steps
+
+columns
+```
+
+
+```{r}
+
+# Create a data frame object called walmart_categories
+
+#loop through each department
+
+for (i in 1:length(data$categories.children)) {
+  
+  dep_id             <- checkfornull(data$categories.id[[i]])
+  dep_name           <- checkfornull(data$categories.name[[i]])
+  dep_path           <- checkfornull(data$categories.path[[i]])
+  
+  #loop through each category
+  
+  for (j in 1:length(data$categories.children[[i]]$id)) {
+    cat_id           <- checkfornull(data$categories.children[[i]]$id[[j]])
+    cat_name         <- checkfornull(data$categories.children[[i]]$name[[j]])
+    cat_path         <- checkfornull(data$categories.children[[i]]$path[[j]])
+    
+    #loop through each subcategory, if one or more exsists in the respective category
+    
+    if (length(data$categories.children[[i]]$children[[j]][[1]]) > 0 ){
+      
+      for (k in 1:length(data$categories.children[[i]]$children[[j]][[1]])) {
+        subcat_id      <- checkfornull(data$categories.children[[i]]$children[[j]]$id[[k]])
+        subcat_name    <- checkfornull(data$categories.children[[i]]$children[[j]]$name[[k]])
+        subcat_path    <- checkfornull(data$categories.children[[i]]$children[[j]]$path[[k]])
+      
+        } #close k
+      
+      } #close if
+      
+      else{
+            
+      subcat_id      <- NA
+      subcat_name    <- NA
+      subcat_path    <- NA
+      
+      } #close else
+    
+    # if this is the first pass, then initialize the dataframe
+    if(i == 1 & j == 1){
+      
+      walmart_categories           <- as.data.frame(cbind(dep_id, dep_name, dep_path, cat_id, cat_name, cat_path, subcat_id, subcat_name, subcat_path))
+      names(walmart_categories)    <- columns
+      
+    } #close if
+    
+    else{ # if this is not the first pass, then bind the current data to the data frame
+      
+      #temp df
+      
+      walmart_categories_tmp        <- as.data.frame(cbind(dep_id, dep_name, dep_path, cat_id, cat_name, cat_path, subcat_id, subcat_name, subcat_path))
+      names(walmart_categories_tmp)     <- columns
+      
+      #row bind
+      
+      walmart_categories <- rbind(walmart_categories, walmart_categories_tmp)
+      
+    } #close else 
+    
+  } #close j
+  
+} #close i
+
+
+```
+
+## Save the Data Frame as a CSV file
+```{r eval=FALSE, include=TRUE}
+write.csv(walmart_categories,'walmart_categories.csv')
+```
+
+
+
