@@ -22,6 +22,7 @@ https://medium.com/@kyleake/how-to-extract-data-from-walmart-open-api-efd01a2f91
 # Setup
 library(jsonlite) # Convert R objects to/from JSON
 library(plyr) # Tools for Splitting, Applying and Combining Data
+library(tidyverse)
 ```
 
 ```{r}
@@ -29,11 +30,13 @@ library(plyr) # Tools for Splitting, Applying and Combining Data
 key = getOption("api_key")
 ```
 
+
 ```{r}
 # config taxonomy url
 
 taxonomy_url <- paste("http://api.walmartlabs.com/v1/taxonomy?apiKey=", key, "&format=json", sep="")
 ```
+
 
 For Taxonomy API, the only parameter you need to specify is "format" (either json or 
 taxonomy_url <- "http://api.walmartlabs.com/v1/taxonomy?apiKey=[Your API Key Here]&format=json".
@@ -42,10 +45,13 @@ taxonomy_url <- "http://api.walmartlabs.com/v1/taxonomy?apiKey=[Your API Key Her
 taxonomy_list <- jsonlite::read_json(taxonomy_url)
 ```
 
+
 ```{r}
 # Return 31 categories as of 5/22/2018
 length(taxonomy_list$categories)
 ```
+
+## With base and plyr
 
 ```{r}
 # Create an empty data frame
@@ -73,6 +79,55 @@ rm(df2)
 
 ```{r}
 head(df, 10)
+
+```
+
+## With dplyr rather than plyr
+
+https://blog.exploratory.io/working-with-json-data-in-very-simple-way-ad7ebcc0bb89
+
+```{r}
+taxonomy_data <- fromJSON(taxonomy_url)
+
+```
+
+```{r}
+taxonomy_data_flat <- flatten(taxonomy_data, recursive=TRUE)
+
+taxonomy_data
+
+taxonomy_tbl <- as_data_frame(taxonomy_data_flat)
+
+taxonomy_tbl
+
+```
+
+```{r}
+taxonomy_tbl$name
+```
+
+```{r}
+arts <- taxonomy_tbl %>% 
+  filter(id == "1334134") 
+
+names(arts)
+
+arts_children_tbl <-as_data_frame(flatten(arts$children))
+
+names(arts_children_tbl)
+
+arts_children_tbl$children
+
+```
+
+```{r}
+taxonomy_tbl[1,4]
+```
+
+```{r}
+taxonomy_data_2 <- fromJSON(taxonomy_url, flatten = TRUE)
+
+names(taxonomy_data_2)
 
 ```
 

@@ -1,0 +1,384 @@
+---
+title: "Walmart Taxonomy API Practice"
+author: Scott Reeves
+#theme: NULL
+output: 
+  html_document: 
+    css: custom.css
+    toc: yes
+    toc_depth: 4
+    toc_float: yes
+---
+
+```{r knitr, include=FALSE}
+knitr::opts_chunk$set(comment="#>")
+```
+
+# Setup
+
+```{r}
+
+library(jsonlite)
+library(tidyverse)
+library(purrr)
+
+```
+
+# Get API key
+
+```{r}
+key = getOption("api_key")
+```
+
+# Setup URL to get data
+
+```{r}
+
+taxonomy_url <- paste("http://api.walmartlabs.com/v1/taxonomy?apiKey=", key, "&format=json", sep="")
+
+```
+
+# About Walmart's Taxonomy API
+
+https://developer.walmartlabs.com/docs/read/Taxonomy_API
+
+Taxonomy API exposes the category taxonomy used by walmart.com to categorize items. It describes three levels as available on Walmart.com.
+*Departments
+*Categories
+*Sub-categories
+
+It is possible to specify the exact category as a parameter when using any of the API's below:
+
+* Search
+* Data feeds 
+* Special feeds - [Pre-order, Best sellers, Rollbacks, Clearance and Special buys]
+
+For example, Search API can be restricted to search within a category by supplying id as per the taxonomy. Similarly, Feed API can be used to download category specific feeds by specifying a category id.
+
+For the Taxonomy API, the only parameter you need to specify is "format" (either json or xml)
+taxonomy_url <- "http://api.walmartlabs.com/v1/taxonomy?apiKey=[Your API Key Here]&format=json".
+
+# Helpful references:
+
+http://r4ds.had.co.nz/hierarchy.html 
+
+https://blog.exploratory.io/working-with-json-data-in-very-simple-way-ad7ebcc0bb89
+
+# Read in the taxonomy data (JSON format)
+
+```{r}
+# taxonomy_data <- jsonlite::fromJSON(taxonomy_url, flatten = TRUE)
+
+taxonomy_data <- jsonlite::fromJSON("taxonomy.json", flatten = TRUE)
+
+```
+
+## Explore the taxonomy data
+
+https://cran.r-project.org/doc/manuals/r-release/R-intro.html#Function-and-variable-index
+
+```{r}
+
+explore_object <- function(object) {
+  
+  obj_type    = typeof(object)
+ #obj_class   = class(object)
+  obj_length  = length(object)
+  obj_names   = names(object)
+ #obj_str     = str(object)
+  obj_dim     = dim(object)
+  obj_summary = summary(object)
+  #length
+  
+  print (paste("object type:",       (obj_type),    sep = " "))
+ #print (paste("object class:",      (obj_class),   sep = " "))
+  print (paste("object length:",     (obj_length),  sep = " "))
+  print (paste("object names:",      (obj_names),   sep = " "))
+ #print (paste("object structure:",  (obj_str),     sep = " "))
+  print (paste("object dimensions:", (obj_dim),     sep = " "))
+  print ("object summary:")
+  summary(object)
+
+  
+
+}
+
+```
+
+
+```{r}
+
+explore_object(taxonomy_data$categories)
+```
+
+```{r}
+explore_object(taxonomy_data$categories$name)
+```
+
+```{r}
+View(taxonomy_data)
+```
+
+```{r}
+# Access (get) the top level object name
+names(taxonomy_data)
+```
+
+```{r}
+# Access (get) the attribute(column) names of the "categories"-level object
+
+dept.names <- names(taxonomy_data$categories)
+```
+
+```{r}
+df <- data.frame(dept.names[1],
+                 dept.names[2])
+df
+```
+
+
+```{r}
+# Show the class of the categories-children object
+
+class(taxonomy_data$categories$children)
+```
+
+```{r}
+# Get the number [length of the vector(list)] of the second level "children"
+
+length(taxonomy_data$categories$children)
+```
+
+```{r}
+# Access (get) the attribute(column) names of the "categories"-"name"-level object
+
+taxonomy_data$categories$name
+```
+
+
+```{r}
+taxonomy_data$categories$path
+```
+
+```{r}
+taxonomy_data$categories$children[[7]]$path
+```
+
+```{r}
+taxonomy_data$categories$children[[7]]$name
+```
+
+
+```{r}
+taxonomy_data[[1]]
+```
+
+
+```{r}
+taxonomy_data[["categories"]]
+```
+
+
+```{r}
+dept_names <- sapply(taxonomy_data, function(x) x[[2]])
+head(dept_names)
+```
+
+```{r}
+dept_names <- sapply(taxonomy_data, function(x) x[2])
+
+```
+
+```{r}
+dept_names <- sapply(taxonomy_data, function(x) x[[2]])
+dept_names
+```
+
+```{r}
+
+```
+
+
+```{r}
+taxonomy_data[[1]][[4]][[1]][[4]][[1]][[2]]
+```
+
+```{r}
+taxonomy_data$categories$children[[1]]["name"]
+```
+
+```{r}
+category_names <- sapply(taxonomy_data$categories$children, function(x) x[2])
+category_names
+```
+
+```{r}
+subcategory_names_test1 <- sapply(taxonomy_data$categories$children[[1]], function(x) x[2])
+subcategory_names_test1
+```
+
+```{r}
+subcategory_names_test2 <- sapply(taxonomy_data$categories$children[1], function(x) x[2])
+subcategory_names_test2
+```
+
+
+```{r}
+taxonomy_data$categories$children[[2]][[3]]
+
+```
+
+```{r}
+
+output1 <- taxonomy_data$categories$children[[1]]["name"]
+
+for (i in 1:length(taxonomy_data$categories$children)) {
+  
+  tmp <- sapply(taxonomy_data$categories$children[i], function(x) x[2])
+  
+  output1 <- rbind(output1, tmp)
+  
+}
+
+output1
+
+```
+
+```{r}
+View(output1)
+```
+
+```{r}
+
+subcatname <- taxonomy_data$categories$children[[1]]["name"]
+subcatpath <- taxonomy_data$categories$children[[1]]["path"]
+
+
+for (i in 1:length(taxonomy_data$categories$children)) {
+  
+  tmp <- sapply(taxonomy_data$categories$children[i], function(x) x[2])
+  
+  subcatname <- rbind(subcatname, tmp)
+  
+}
+
+for (i in 1:length(taxonomy_data$categories$children)) {
+  
+  tmp <- sapply(taxonomy_data$categories$children[i], function(x) x[3])
+  
+  subcatpath <- rbind(subcatpath, tmp)
+  
+}
+
+output2 <- cbind(subcatpath, subcatname)
+
+output2
+
+```
+
+```{r}
+names(taxonomy_data$categories)[2]
+
+
+```
+
+
+```{r}
+
+df <- data.frame()
+
+
+for (name in names(taxonomy_data$categories)) {
+  
+  dept = names(taxonomy_data$categories[name])
+  
+  #print (dept)
+  
+  #cbind(df, dept)
+  cbind(df, dept_name = dept)
+  
+}
+
+df
+
+```
+
+
+
+
+
+
+
+```{r}
+testdf <- data.frame(
+  name = taxonomy_data$categories$children[[2]][[2]],
+  path = taxonomy_data$categories$children[[2]][[3]])
+
+testdf
+```
+
+```{r}
+View(testdf)
+```
+
+
+```{r}
+df <- data.frame(
+  "dept_id"   = taxonomy_data$categories$id,
+  "dept_name" = taxonomy_data$categories$name,
+  "dept_path" = taxonomy_data$categories$path,
+  "subcat_name"  = output2$name
+  
+)
+
+df
+```
+
+
+
+Keep working on this, using apply. 
+Try https://stackoverflow.com/questions/15059076/call-apply-like-function-on-each-row-of-dataframe-with-multiple-arguments-from-e?utm_medium=organic&utm_source=google_rich_qa&utm_campaign=google_rich_qa
+
+```{r}
+
+testdf2 <- testdf <- data.frame(
+  name = taxonomy_data$categories$children[[1]][[3]],
+  path = taxonomy_data$categories$children[[1]][[2]])
+
+for (i in 2:length(taxonomy_data$categories$children)) {
+  
+  tmp <- apply(taxonomy_data$categories$children[i], 2, function(x) x[2])
+  
+  testdf2 <- rbind(testdf2, tmp)
+  
+}
+
+testdf2
+
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,92 @@
+---
+title: "Walmart Taxonomy API Practice"
+author: Scott Reeves
+#theme: NULL
+output: 
+  html_document: 
+    css: custom.css
+    toc: yes
+    toc_depth: 4
+    toc_float: yes
+---
+
+```{r knitr, include=FALSE}
+knitr::opts_chunk$set(comment="#>")
+```
+
+
+```{r}
+# Setup
+library(jsonlite)
+library(tidyverse)
+#library(purrr)
+```
+
+```{r}
+# ingest api key
+key = getOption("api_key")
+```
+
+
+```{r}
+# config taxonomy url
+
+taxonomy_url <- paste("http://api.walmartlabs.com/v1/taxonomy?apiKey=", key, "&format=json", sep="")
+```
+
+## Taxonomy API
+
+https://developer.walmartlabs.com/docs/read/Taxonomy_API
+
+Taxonomy API exposes the category taxonomy used by walmart.com to categorize items. It describes three levels as available on Walmart.com.
+*Departments
+*Categories
+*Sub-categories
+
+It is possible to specify the exact category as a parameter when using any of the API's below:
+
+* Search
+* Data feeds 
+* Special feeds - [Pre-order, Best sellers, Rollbacks, Clearance and Special buys]
+
+For example, Search API can be restricted to search within a category by supplying id as per the taxonomy. Similarly, Feed API can be used to download category specific feeds by specifying a category id.
+
+For the Taxonomy API, the only parameter you need to specify is "format" (either json or xml)
+taxonomy_url <- "http://api.walmartlabs.com/v1/taxonomy?apiKey=[Your API Key Here]&format=json".
+
+### Helpful references:
+
+http://r4ds.had.co.nz/hierarchy.html 
+
+https://blog.exploratory.io/working-with-json-data-in-very-simple-way-ad7ebcc0bb89
+
+```{r}
+txcats <- jsonlite::fromJSON(taxonomy_url)
+```
+
+```{r}
+names(txcats)
+```
+
+```{r}
+names(txcats$categories)
+```
+
+```{r}
+length(txcats$categories$children)
+```
+
+```{r}
+flat_data <- jsonlite::flatten(txcats$categories, recursive = TRUE)
+
+flat_data
+
+```
+
+```{r}
+
+```
+
+
+
+
