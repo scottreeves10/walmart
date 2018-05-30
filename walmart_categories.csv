@@ -1,0 +1,554 @@
+"","dept.id","dept.name","dept.path","cat.id","cat.name","cat.path","subcat.id","subcat.name","subcat.path"
+"1","1334134","Arts, Crafts & Sewing","Arts, Crafts & Sewing","1334134_5899871","Art & Drawing Supplies","Arts, Crafts & Sewing/Art & Drawing Supplies","1334134_5899871_9677556","Sketchbooks & Paper","Arts, Crafts & Sewing/Art & Drawing Supplies/Sketchbooks & Paper"
+"2","1334134","Arts, Crafts & Sewing","Arts, Crafts & Sewing","1334134_4533160","Beading & Jewelry Making","Arts, Crafts & Sewing/Beading & Jewelry Making","1334134_4533160_1930838","Pendants and Charms","Arts, Crafts & Sewing/Beading & Jewelry Making/Pendants and Charms"
+"3","1334134","Arts, Crafts & Sewing","Arts, Crafts & Sewing","1334134_4665549","Bernat","Arts, Crafts & Sewing/Bernat",NA,NA,NA
+"4","1334134","Arts, Crafts & Sewing","Arts, Crafts & Sewing","1334134_2022582","Brother","Arts, Crafts & Sewing/Brother","1334134_2022582_6995319","Brother","Arts, Crafts & Sewing/Brother Brand Shop/Brother"
+"5","1334134","Arts, Crafts & Sewing","Arts, Crafts & Sewing","1334134_6355365","Craft Furniture & Storage","Arts, Crafts & Sewing/Craft Furniture & Storage","1334134_6355365_1285843","Craft Storage","Arts, Crafts & Sewing/Craft Furniture & Storage/Craft Storage"
+"6","1334134","Arts, Crafts & Sewing","Arts, Crafts & Sewing","1334134_6172404","Crafting","Arts, Crafts & Sewing/Crafting","1334134_6172404_4705167","Wood Crafting","Arts, Crafts & Sewing/Crafting/Wood Crafting"
+"7","1334134","Arts, Crafts & Sewing","Arts, Crafts & Sewing","1334134_2167791","Crayola","Arts, Crafts & Sewing/Crayola",NA,NA,NA
+"8","1334134","Arts, Crafts & Sewing","Arts, Crafts & Sewing","1334134_9799587","Cricut","Arts, Crafts & Sewing/Cricut",NA,NA,NA
+"9","1334134","Arts, Crafts & Sewing","Arts, Crafts & Sewing","1334134_4715618","David Textiles","Arts, Crafts & Sewing/David Textiles",NA,NA,NA
+"10","1334134","Arts, Crafts & Sewing","Arts, Crafts & Sewing","1334134_4232946","Fabric","Arts, Crafts & Sewing/Fabric","1334134_4232946_9270165","Utility Fabric","Arts, Crafts & Sewing/Fabric/Utility Fabric"
+"11","1334134","Arts, Crafts & Sewing","Arts, Crafts & Sewing","1334134_6528012","Fairfield","Arts, Crafts & Sewing/Fairfield",NA,NA,NA
+"12","1334134","Arts, Crafts & Sewing","Arts, Crafts & Sewing","1334134_4880989","Knitting & Crochet","Arts, Crafts & Sewing/Knitting & Crochet","1334134_4880989_3031053","Knitting Tools and Supplies","Arts, Crafts & Sewing/Knitting & Crochet/Knitting Tools and Supplies"
+"13","1334134","Arts, Crafts & Sewing","Arts, Crafts & Sewing","1334134_5522221","Lion Brand","Arts, Crafts & Sewing/Lion Brand",NA,NA,NA
+"14","1334134","Arts, Crafts & Sewing","Arts, Crafts & Sewing","1334134_3540724","Pellon","Arts, Crafts & Sewing/Pellon",NA,NA,NA
+"15","1334134","Arts, Crafts & Sewing","Arts, Crafts & Sewing","1334134_7616708","Red Heart Yarn","Arts, Crafts & Sewing/Red Heart Yarn","1334134_7616708_4597651","Red Heart","Arts, Crafts & Sewing/Red Heart Yarn/Red Heart"
+"16","1334134","Arts, Crafts & Sewing","Arts, Crafts & Sewing","1334134_8495017","Scrapbooking","Arts, Crafts & Sewing/Scrapbooking","1334134_8495017_5211307","Stickers","Arts, Crafts & Sewing/Scrapbooking/Stickers"
+"17","1334134","Arts, Crafts & Sewing","Arts, Crafts & Sewing","1334134_1094704","Sewing","Arts, Crafts & Sewing/Sewing","1334134_1094704_6335431","Trims & Embellishments","Arts, Crafts & Sewing/Sewing/Trims & Embellishments"
+"18","1334134","Arts, Crafts & Sewing","Arts, Crafts & Sewing","1334134_5186406","Silhouette","Arts, Crafts & Sewing/Silhouette",NA,NA,NA
+"19","1334134","Arts, Crafts & Sewing","Arts, Crafts & Sewing","1334134_6868418","Singer","Arts, Crafts & Sewing/Singer","1334134_6868418_1812624","Singer Sewing Machines","Arts, Crafts & Sewing/Singer/Singer Sewing Machines"
+"20","1334134","Arts, Crafts & Sewing","Arts, Crafts & Sewing","1334134_5007258","Spinrite","Arts, Crafts & Sewing/Spinrite",NA,NA,NA
+"21","1334134","Arts, Crafts & Sewing","Arts, Crafts & Sewing","1334134_2197999","Waverly Inspirations","Arts, Crafts & Sewing/Waverly Inspirations",NA,NA,NA
+"22","1334134","Arts, Crafts & Sewing","Arts, Crafts & Sewing","1334134_1095481","Yarn","Arts, Crafts & Sewing/Yarn",NA,NA,NA
+"23","91083","Auto & Tires","Auto & Tires","91083_1074767","Auto Body","Auto & Tires/Auto Body","91083_1074767_2867839","Car Customization","Auto & Tires/Auto Body/Car Customization"
+"24","91083","Auto & Tires","Auto & Tires","91083_1212910","Auto Detailing & Car Care","Auto & Tires/Auto Detailing & Car Care","91083_1212910_1212918","Interior Care","Auto & Tires/Auto Detailing & Car Care/Interior Care"
+"25","91083","Auto & Tires","Auto & Tires","91083_3947","Auto Electronics","Auto & Tires/Auto Electronics","91083_3947_52816","Radar Detectors","Auto & Tires/Auto Electronics/Radar Detectors"
+"26","91083","Auto & Tires","Auto & Tires","91083_1074769","Automotive Interior","Auto & Tires/Automotive Interior","91083_1074769_9086077","Truck Floor Mats","Auto & Tires/Automotive Interior/Truck Floor Mats"
+"27","91083","Auto & Tires","Auto & Tires","91083_7897706","Automotive Performance Parts","Auto & Tires/Automotive Performance Parts","91083_7897706_1906513","Suspension and Steering","Auto & Tires/Automotive Performance Parts/Suspension and Steering"
+"28","91083","Auto & Tires","Auto & Tires","91083_1074765","Automotive Replacement Parts","Auto & Tires/Automotive Replacement Parts","91083_1074765_3219238","Windshield Wiper Blades","Auto & Tires/Automotive Replacement Parts/Windshield Wiper Blades"
+"29","91083","Auto & Tires","Auto & Tires","91083_5941050","Automotive Tools & Equipment","Auto & Tires/Automotive Tools & Equipment","91083_5941050_8199034","Welding Tools","Auto & Tires/Automotive Tools & Equipment/Welding Tools"
+"30","91083","Auto & Tires","Auto & Tires","91083_1074766","Car Safety & Car Security","Auto & Tires/Car Safety & Car Security","91083_1074766_8288583","Emergency Roadside Kits","Auto & Tires/Car Safety & Car Security/Emergency Roadside Kits"
+"31","91083","Auto & Tires","Auto & Tires","91083_1074784","Exterior Car Accessories","Auto & Tires/Exterior Car Accessories","91083_1074784_4491859","Exterior Car Decoration","Auto & Tires/Exterior Car Accessories/Exterior Car Decoration"
+"32","91083","Auto & Tires","Auto & Tires","91083_1044198","Fuel Storage & Transfer","Auto & Tires/Fuel Storage & Transfer",NA,NA,NA
+"33","91083","Auto & Tires","Auto & Tires","91083_1080484","Motorcycle and ATV","Auto & Tires/Motorcycle and ATV","91083_1080484_4697745","UTV","Auto & Tires/Motorcycle and ATV/UTV"
+"34","91083","Auto & Tires","Auto & Tires","91083_1104294","Oils and Fluids","Auto & Tires/Oils and Fluids","91083_1104294_1218939","Windshield Washer Fluid","Auto & Tires/Oils and Fluids/Windshield Washer Fluid"
+"35","91083","Auto & Tires","Auto & Tires","91083_2983678","RV Parts & Accessories","Auto & Tires/RV Parts & Accessories","91083_2983678_8749207","RV Steps and Ladders","Auto & Tires/RV Parts & Accessories/RV Steps and Ladders"
+"36","5427","Baby","Baby","5427_491351","Baby & Toddler Toys","Baby/Baby & Toddler Toys","5427_491351_8871082","Toddler Activity Toys","Baby/Baby & Toddler Toys/Toddler Activity Toys"
+"37","5427","Baby","Baby","5427_7687642","Baby 0-6 Months","Baby/Baby 0-6 Months",NA,NA,NA
+"38","5427","Baby","Baby","5427_9042186","Baby 12-18 Months","Baby/Baby 12-18 Months",NA,NA,NA
+"39","5427","Baby","Baby","5427_7393266","Baby 18 Months & Up","Baby/Baby 18 Months & Up",NA,NA,NA
+"40","5427","Baby","Baby","5427_5589783","Baby 6-12 Months","Baby/Baby 6-12 Months",NA,NA,NA
+"41","5427","Baby","Baby","5427_86323","Baby Activities & Gear","Baby/Baby Activities & Gear","5427_86323_2798485","Summer Infant Playards","Baby/Baby Activities & Gear/Summer Infant Playards"
+"42","5427","Baby","Baby","5427_6582063","Baby Multi-Age","Baby/Baby Multi-Age",NA,NA,NA
+"43","5427","Baby","Baby","5427_91365","Car Seats","Baby/Car Seats","5427_91365_999379","See all Car Seats","Baby/Car Seats/See all Car Seats"
+"44","5427","Baby","Baby","5427_1224874","Daycare &  Preschool Essentials","Baby/Daycare &  Preschool Essentials","5427_1224874_1224877","Toys & Activities","Baby/Daycare &  Preschool Essentials/Toys & Activities"
+"45","5427","Baby","Baby","5427_486190","Diapering","Baby/Diapering","5427_486190_8127691","Wipe Warmers & Holders","Baby/Diapering/Wipe Warmers & Holders"
+"46","5427","Baby","Baby","5427_9986740","Disney Baby Store","Baby/Disney Baby Store",NA,NA,NA
+"47","5427","Baby","Baby","5427_133283","Feeding","Baby/Feeding","5427_133283_3454241","Tommee Tippee: Bottle Feeding","Baby/Feeding/Tommee Tippee: Bottle Feeding"
+"48","5427","Baby","Baby","5427_538387","Gifts for Baby","Baby/Gifts for Baby","5427_538387_3788622","Baby Toy Gift Sets","Baby/Gifts for Baby/Baby Toy Gift Sets"
+"49","5427","Baby","Baby","5427_7345514","Graco","Baby/Graco","5427_7345514_9613980","Graco Infant Car Seats","Baby/Graco/Graco Infant Car Seats"
+"50","5427","Baby","Baby","5427_132943","Health & Safety","Baby/Health & Safety","5427_132943_1692892","Wi-Fi Baby Monitors","Baby/Health & Safety/Wi-Fi Baby Monitors"
+"51","5427","Baby","Baby","5427_6048863","Mommy Must Haves","Baby/Mommy Must Haves",NA,NA,NA
+"52","5427","Baby","Baby","5427_414099","Nursery & Decor","Baby/Nursery & Decor","5427_414099_9171309","Furniture","Baby/Nursery & Decor/Furniture"
+"53","5427","Baby","Baby","5427_118134","Strollers","Baby/Strollers","5427_118134_6863268","Urbini S+L Strollers","Baby/Strollers/Urbini S+L Strollers"
+"54","5427","Baby","Baby","5427_1105212","Swim Shop","Baby/Swim Shop",NA,NA,NA
+"55","5427","Baby","Baby","5427_978579","Toddler","Baby/Toddler","5427_978579_3990478","Furniture","Baby/Toddler/Furniture"
+"56","5427","Baby","Baby","5427_1107352","Top Registry Items","Baby/Top Registry Items",NA,NA,NA
+"57","1085666","Beauty","Beauty","1085666_9892091","All Fragrances","Beauty/All Fragrances","1085666_9892091_7768373","Unisex Fragrances","Beauty/All Fragrances/Unisex Fragrances"
+"58","1085666","Beauty","Beauty","1085666_1071969","Bath & Body","Beauty/Bath & Body","1085666_1071969_1001515","Hand Lotions & Creams","Beauty/Bath & Body/Hand Lotions & Creams"
+"59","1085666","Beauty","Beauty","1085666_3316357","Beauty by Top Brands","Beauty/Beauty by Top Brands","1085666_3316357_7382813","Yes To","Beauty/Beauty by Top Brands/Yes To"
+"60","1085666","Beauty","Beauty","1085666_4820682","Beauty by Topic","Beauty/Beauty by Topic","1085666_4820682_2034120","Summer Makeup","Beauty/Beauty by Topic/Summer Makeup"
+"61","1085666","Beauty","Beauty","1085666_133225","Fragrances","Beauty/Fragrances","1085666_133225_1225227","Women's Fragrances","Beauty/Fragrances/Women's Fragrances"
+"62","1085666","Beauty","Beauty","1085666_1007219","Hair Care","Beauty/Hair Care","1085666_1007219_1007019","Styling Products","Beauty/Hair Care/Styling Products"
+"63","1085666","Beauty","Beauty","1085666_1007040","Makeup","Beauty/Makeup","1085666_1007040_1001498","Tools & Accessories","Beauty/Makeup/Tools & Accessories"
+"64","1085666","Beauty","Beauty","1085666_36290","Massagers & Spa","Beauty/Massagers & Spa","1085666_36290_1044044","Paraffin & Foot Baths","Beauty/Massagers & Spa/Paraffin & Foot Baths"
+"65","1085666","Beauty","Beauty","1085666_1005862","Personal Care","Beauty/Personal Care","1085666_1005862_1001487","Deodorants & Antiperspirants","Beauty/Personal Care/Deodorants & Antiperspirants"
+"66","1085666","Beauty","Beauty","1085666_2026829","Premium Beauty","Beauty/Premium Beauty","1085666_2026829_9848493","Valentine's Day Gifts","Beauty/Premium Beauty/Valentine's Day Gifts"
+"67","1085666","Beauty","Beauty","1085666_1007039","Skin Care","Beauty/Skin Care","1085666_1007039_1001508","Sun Care","Beauty/Skin Care/Sun Care"
+"68","3920","Books","Books","3920_582321","Arts & Entertainment","Books/Arts & Entertainment","3920_582321_5674104","Photography","Books/Arts & Entertainment/Photography"
+"69","3920","Books","Books","3920_8955258","Back to School Books","Books/Back to School Books",NA,NA,NA
+"70","3920","Books","Books","3920_5196470","Biographies & Memoirs","Books/Biographies & Memoirs","3920_5196470_7667225","Women","Books/Biographies & Memoirs/Women"
+"71","3920","Books","Books","3920_582349","Business & Money Books","Books/Business & Money Books","3920_582349_5833787","Workplace Culture","Books/Business & Money/Workplace Culture"
+"72","3920","Books","Books","3920_582053","Children's & Kids' Books","Books/Children's & Kids' Books","3920_582053_4030488","Westerns","Books/Children's Books/Westerns"
+"73","3920","Books","Books","3920_582374","Christian Books & Bibles","Books/Christian Books & Bibles","3920_582374_8324310","Christian Life","Books/Christian Books & Bibles/Christian Life"
+"74","3920","Books","Books","3920_1095293","Comic Books & Graphic Novels","Books/Comic Books & Graphic Novels","3920_1095293_1095296","Superheroes","Books/Comic Books & Graphic Novels/Superheroes"
+"75","3920","Books","Books","3920_2196908","Comic-Con Books","Books/Comic-Con Books",NA,NA,NA
+"76","3920","Books","Books","3920_9724405","Computers & Technology","Books/Computers & Technology","3920_9724405_8850324","Web","Books/Computers & Technology Books/Web"
+"77","3920","Books","Books","3920_3036003","Cookbooks, Food & Wine","Books/Cookbooks, Food & Wine","3920_3036003_5130242","Vegetarian Cookbooks","Books/Cookbooks, Food & Wine/Vegetarian Cookbooks"
+"78","3920","Books","Books","3920_582361","Crafts & Hobbies Books","Books/Crafts & Hobbies Books","3920_582361_2418034","Woodwork","Books/Crafts & Hobbies Books/Woodwork"
+"79","3920","Books","Books","3920_7415838","Dieting & Fitness Books","Books/Dieting & Fitness Books","3920_7415838_1696340","Yoga","Books/Dieting & Fitness Books/Yoga"
+"80","3920","Books","Books","3920_4284269","Education","Books/Education","3920_4284269_6453468","Vocational Books","Books/Education/Vocational Books"
+"81","3920","Books","Books","3920_582507","Education & Study Aids","Books/Education & Study Aids","3920_582507_6060018","Study Aids","Books/Education & Study Aids/Study Aids"
+"82","3920","Books","Books","3920_9842685","Engineering & Transportation Books","Books/Engineering & Transportation Books","3920_9842685_1557508","Transportation","Books/Engineering & Transportation/Transportation"
+"83","3920","Books","Books","3920_9420011","Father's Day Books","Books/Father's Day Books","3920_9420011_7652879","Sports, Outdoors & DIY","Books/Father's Day Books/Sports, Outdoors & DIY"
+"84","3920","Books","Books","3920_2178204","Foreign Language Study & Reference","Books/Foreign Language Study & Reference","3920_2178204_8901645","Yiddish","Books/Foreign Language Study & Reference/Yiddish"
+"85","3920","Books","Books","3920_582054","Health & Wellness","Books/Health & Wellness","3920_582054_2982681","Work-Related Health","Books/Health & Wellness/Work-Related Health"
+"86","3920","Books","Books","3920_582331","History","Books/History","3920_582331_583319","World","Books/History/World"
+"87","3920","Books","Books","3920_5611252","House, Home & Gardening Books","Books/House, Home & Gardening Books","3920_5611252_3413258","Pets","Books/House, Home & Gardening/Pets"
+"88","3920","Books","Books","3920_4310685","Humor Books","Books/Humor Books","3920_4310685_2772830","Trivia","Books/Humor Books/Trivia"
+"89","3920","Books","Books","3920_8818538","Language Arts & Disciplines","Books/Language Arts & Disciplines","3920_8818538_7142764","Vocabulary","Books/Language Arts & Disciplines/Vocabulary"
+"90","3920","Books","Books","3920_1952589","Law","Books/Law","3920_1952589_8734337","Witnesses","Books/Law/Witnesses"
+"91","3920","Books","Books","3920_226139","Libros en Espanol","Books/Libros en Espanol","3920_226139_974160","Salud, Mente y Cuerpo","Books/Libros en Espanol/Salud, Mente y Cuerpo"
+"92","3920","Books","Books","3920_582105","Literature & Fiction","Books/Literature & Fiction","3920_582105_9408377","Poetry Books","Books/Literature & Fiction/Poetry Books"
+"93","3920","Books","Books","3920_9360990","Maps & Travel","Books/Maps & Travel","3920_9360990_7928632","United States","Books/Maps & Travel/United States"
+"94","3920","Books","Books","3920_9242904","Mathematics Books","Books/Mathematics Books","3920_9242904_6464287","Vector Analysis","Books/Mathematics/Vector Analysis"
+"95","3920","Books","Books","3920_3203859","Medical Books","Books/Medical Books","3920_3203859_9673778","Veterinary Medicine","Books/Medical Books/Veterinary Medicine"
+"96","3920","Books","Books","3920_7458265","Mother's Day Books","Books/Mother's Day Books","3920_7458265_8021836","Mother's Day Literature & Fiction Books","Books/Mother's Day Books/Mother's Day Literature & Fiction Books"
+"97","3920","Books","Books","3920_1828938","Nonfiction","Books/Nonfiction","3920_1828938_6325322","True Crime Books","Books/Nonfiction/True Crime Books"
+"98","3920","Books","Books","3920_582348","Parenting & Family Books","Books/Parenting & Family Books","3920_582348_583272","Pregnancy & Childbirth","Books/Parenting & Family Books/Pregnancy & Childbirth"
+"99","3920","Books","Books","3920_7051956","Philosophy Books","Books/Philosophy Books","3920_7051956_2491740","Zen","Books/Philosophy/Zen"
+"100","3920","Books","Books","3920_9408377","Poetry","Books/Poetry","3920_9408377_4436855","General","Books/Poetry/General"
+"101","3920","Books","Books","3920_5764957","Political Books","Books/Political Books","3920_5764957_4546754","World","Books/Political Books/World"
+"102","3920","Books","Books","3920_5867480","Pride Month Books","Books/Pride Month Books",NA,NA,NA
+"103","3920","Books","Books","3920_2761424","Psychology & Social Science Books","Books/Psychology & Social Science Books","3920_2761424_8176770","Social Science","Books/Psychology & Social Science Books/Social Science"
+"104","3920","Books","Books","3920_3943378","Reference","Books/Reference","3920_3943378_7746301","Yearbooks & Annuals","Books/Reference/Yearbooks & Annuals"
+"105","3920","Books","Books","3920_582055","Religion & Religious Studies","Books/Religion & Religious Studies",NA,NA,NA
+"106","3920","Books","Books","3920_1987289","Religion & Spirituality Books","Books/Religion & Spirituality Books","3920_1987289_582055","Religion & Religious Studies","Books/Religion & Spirituality Books/Religion & Religious Studies"
+"107","3920","Books","Books","3920_8529612","Science & Nature","Books/Science & Nature","3920_8529612_1841429","Science","Books/Science & Nature Books/Science"
+"108","3920","Books","Books","3920_5642757","Self-Help Books","Books/Self-Help Books","3920_5642757_7779346","Twelve-Step Programs","Books/Self-Help/Twelve-Step Programs"
+"109","3920","Books","Books","3920_8924365","Sports & Outdoors","Books/Sports & Outdoors","3920_8924365_3961362","Wrestling","Books/Sports & Outdoors/Wrestling"
+"110","3920","Books","Books","3920_1940637","St. Patrick's Day Books","Books/St. Patrick's Day Books",NA,NA,NA
+"111","3920","Books","Books","3920_6060018","Study Aids","Books/Study Aids","3920_6060018_2271753","Vocational","Books/Study Aids/Vocational"
+"112","3920","Books","Books","3920_6726310","Summer Reading Books","Books/Summer Reading Books","3920_6726310_8614695","Young Adult","Books/Summer Reading Books/Young Adult"
+"113","3920","Books","Books","3920_1068785","Teen & Young Adult Books","Books/Teen & Young Adult Books","3920_1068785_1251309","Zombies","Books/Teen & Young Adult Books/Zombies"
+"114","3920","Books","Books","3920_582377","Textbooks","Books/Textbooks","3920_582377_586406","Technology","Books/Textbooks/Technology"
+"115","3920","Books","Books","3920_6325322","True Crime Books","Books/True Crime Books","3920_6325322_3623662","White Collar Crime","Books/True Crime/White Collar Crime"
+"116","3920","Books","Books","3920_1057224","Walmart Books Best Sellers","Books/Walmart Books Best Sellers","3920_1057224_6231299","Young Adult Books Top 100","Books/Walmart Books Best Sellers/Young Adult Books Top 100"
+"117","3920","Books","Books","3920_4883891","Women's History Month Books","Books/Women's History Month Books","3920_4883891_9043460","Women's History Month Nonfiction","Books/Women's History Month Books/Women's History Month Nonfiction"
+"118","1105910","Cell Phones","Cell Phones","1105910_133161","Accessories","Cell Phones/Accessories","1105910_133161_7579365","Shop Cases by Phone Model","Cell Phones/Accessories/Shop Cases by Phone Model"
+"119","1105910","Cell Phones","Cell Phones","1105910_1231258","Apple iPhone","Cell Phones/Apple iPhone","1105910_1231258_4907762","Refurbished iPhones","Cell Phones/Apple iPhone/Refurbished iPhones"
+"120","1105910","Cell Phones","Cell Phones","1105910_1076544","Family Mobile","Cell Phones/Family Mobile","1105910_1076544_1082804","Walmart Family Mobile Phones","Cell Phones/Family Mobile/Walmart Family Mobile Phones"
+"121","1105910","Cell Phones","Cell Phones","1105910_7289090","iPhone","Cell Phones/iPhone","1105910_7289090_4907762","Refurbished iPhones","Cell Phones/iPhone/Refurbished iPhones"
+"122","1105910","Cell Phones","Cell Phones","1105910_1163447","Mobile Hotspots & Plans","Cell Phones/Mobile Hotspots & Plans","1105910_1163447_1163449","Signal Boosters & Devices","Cell Phones/Mobile Hotspots & Plans/Signal Boosters & Devices"
+"123","1105910","Cell Phones","Cell Phones","1105910_1072335","No-Contract Phones & Plans","Cell Phones/No-Contract Phones & Plans","1105910_1072335_1097404","SIM Cards","Cell Phones/No-Contract Phones & Plans/SIM Cards"
+"124","1105910","Cell Phones","Cell Phones","1105910_1159786","Refurbished Phones","Cell Phones/Refurbished Phones",NA,NA,NA
+"125","1105910","Cell Phones","Cell Phones","1105910_1231202","Samsung Galaxy","Cell Phones/Samsung Galaxy","1105910_1231202_4983371","Galaxy S9 | S9+","Cell Phones/Samsung Galaxy/Galaxy S9 | S9+"
+"126","1105910","Cell Phones","Cell Phones","1105910_1231203","Shop Phones by Operating System","Cell Phones/Shop Phones by Operating System","1105910_1231203_1231207","Microsoft Windows","Cell Phones/Shop Phones by Operating System/Microsoft Windows"
+"127","1105910","Cell Phones","Cell Phones","1105910_1045119","Straight Talk Wireless","Cell Phones/Straight Talk Wireless","1105910_1045119_1225527","Straight Talk Phone Plans","Cell Phones/Straight Talk Wireless/Straight Talk Phone Plans"
+"128","1105910","Cell Phones","Cell Phones","1105910_1073085","Unlocked Phones","Cell Phones/Unlocked Phones",NA,NA,NA
+"129","5438","Clothing","Clothing","5438_1228424","Activewear for the Family","Clothing/Activewear for the Family","5438_1228424_2051042","Kids Activewear","Clothing/Activewear for the Family/Kids Activewear"
+"130","5438","Clothing","Clothing","5438_1225572","Associate Dress Code","Clothing/Associate Dress Code","5438_1225572_1225578","Associate Dress Code","Clothing/Associate Dress Code/Associate Dress Code"
+"131","5438","Clothing","Clothing","5438_584291","Baby & Toddler Clothing","Clothing/Baby & Toddler Clothing","5438_584291_4111593","Preemie Clothing","Clothing/Baby & Toddler Clothing/Preemie Clothing"
+"132","5438","Clothing","Clothing","5438_7161239","Baby Pants","Clothing/Baby Pants","5438_7161239_5989039","Womens Petite Plus","Clothing/Baby Pants/Womens Petite Plus"
+"133","5438","Clothing","Clothing","5438_1045799","Bags & Accessories","Clothing/Bags & Accessories","5438_1045799_6614250","Women's Bags & Accessories","Clothing/Bags & Accessories/Women's Bags & Accessories"
+"134","5438","Clothing","Clothing","5438_2556850","Bags & Luggage","Clothing/Bags & Luggage","5438_2556850_8675023","Luggage","Clothing/Handbags & Luggage/Luggage"
+"135","5438","Clothing","Clothing","5438_133198","Big & Tall","Clothing/Big & Tall","5438_133198_3229825","Mens Big & Tall Underwear & Undershirts","Clothing/Big & Tall/Mens Big & Tall Underwear & Undershirts"
+"136","5438","Clothing","Clothing","5438_133199","Boys Clothing","Clothing/Boys Clothing","5438_133199_1199509","Boys' Uniforms","Clothing/Boys Clothing/Boys' Uniforms"
+"137","5438","Clothing","Clothing","5438_1231398","Character Shop","Clothing/Character Shop","5438_1231398_3384501","Women's Character Shop","Clothing/Character Shop/Women's Character Shop"
+"138","5438","Clothing","Clothing","5438_639019","Cold Weather Clothing Shop","Clothing/Cold Weather Clothing Shop","5438_639019_5198768","Girls' Cold Weather Shop","Clothing/Cold Weather Clothing Shop/Girls' Cold Weather Shop"
+"139","5438","Clothing","Clothing","5438_3317124","Fashion Brands","Clothing/Fashion Brands","5438_3317124_3522893","Wrangler","Clothing/Fashion Brands/Wrangler"
+"140","5438","Clothing","Clothing","5438_133202","Girls","Clothing/Girls","5438_133202_1218851","Girls' Uniforms","Clothing/Girls/Girls' Uniforms"
+"141","5438","Clothing","Clothing","5438_1228241","Industrial Workwear","Clothing/Industrial Workwear","5438_1228241_660679","Scrubs","Clothing/Industrial Workwear/Scrubs"
+"142","5438","Clothing","Clothing","5438_1078024","Intimates & Sleepwear","Clothing/Intimates & Sleepwear","5438_1078024_1228569","Womens Sleepwear & Robes","Clothing/Intimates & Sleepwear/Womens Sleepwear & Robes"
+"143","5438","Clothing","Clothing","5438_133201","Juniors","Clothing/Juniors","5438_133201_1230172","Juniors Uniforms","Clothing/Juniors/Juniors Uniforms"
+"144","5438","Clothing","Clothing","5438_5394749","Juniors' Plus","Clothing/Juniors' Plus","5438_5394749_3768295","Juniors' Plus Tops & T-Shirts","Clothing/Juniors' Plus/Juniors' Plus Tops & T-Shirts"
+"145","5438","Clothing","Clothing","5438_7712430","Kids Clothing","Clothing/Kids Clothing","5438_7712430_1660851","Girls Clothing","Clothing/Kids Clothing/Girls Clothing"
+"146","5438","Clothing","Clothing","5438_444253","Luggage","Clothing/Luggage","5438_444253_651266","Travel Duffel Bags","Clothing/Luggage/Travel Duffel Bags"
+"147","5438","Clothing","Clothing","5438_133284","Maternity","Clothing/Maternity","5438_133284_486986","Pregnancy Pillows","Clothing/Maternity/Pregnancy Pillows"
+"148","5438","Clothing","Clothing","5438_6770805","Maternity Plus","Clothing/Maternity Plus","5438_6770805_4632048","Maternity Plus Sweaters","Clothing/Maternity Plus/Maternity Plus Sweaters"
+"149","5438","Clothing","Clothing","5438_133197","Men","Clothing/Men","5438_133197_1224681","Mens Workwear","Clothing/Men/Mens Workwear"
+"150","5438","Clothing","Clothing","5438_7151172","Premium Brands","Clothing/Premium Brands","5438_7151172_6211590","Vince Camuto","Clothing/Premium Brands/Vince Camuto"
+"151","5438","Clothing","Clothing","5438_1086304","School Uniforms for Boys & Girls","Clothing/School Uniforms for Boys & Girls","5438_1086304_607360","School Uniforms","Clothing/School Uniforms for Boys & Girls/School Uniforms"
+"152","5438","Clothing","Clothing","5438_1045804","Shoes","Clothing/Shoes","5438_1045804_2674215","Work Shoes","Clothing/Shoes/Work Shoes"
+"153","5438","Clothing","Clothing","5438_3421685","Shop by Clothing Type","Clothing/Shop by Clothing Type","5438_3421685_8613282","T-Shirts & Tank Tops","Clothing/Shop by Clothing Type/T-Shirts & Tank Tops"
+"154","5438","Clothing","Clothing","5438_1228539","Sleepwear Shop","Clothing/Sleepwear Shop","5438_1228539_9216494","Kids' Sleepwear","Clothing/Sleepwear Shop/Kids' Sleepwear"
+"155","5438","Clothing","Clothing","5438_1229269","Swim Shop","Clothing/Swim Shop","5438_1229269_2947746","Kids' Swim Shop","Clothing/Swim Shop/Kids' Swim Shop"
+"156","5438","Clothing","Clothing","5438_133162","Women","Clothing/Women","5438_133162_4977442","Womens Workwear & Suits","Clothing/Women/Womens Workwear & Suits"
+"157","5438","Clothing","Clothing","5438_133195","Women's Plus","Clothing/Women's Plus","5438_133195_9625289","Womens Plus Workwear & Suits","Clothing/Women's Plus/Womens Plus Workwear & Suits"
+"158","5438","Clothing","Clothing","5438_3117077","Womens Petite","Clothing/Womens Petite","5438_3117077_5104498","Womens Petites Tops & Shirts","Clothing/Womens Petite/Womens Petites Tops & Shirts"
+"159","5438","Clothing","Clothing","5438_547964","Young Men's Styles","Clothing/Young Men's Styles",NA,NA,NA
+"160","5438","Clothing","Clothing","5438_6016035","Young Mens","Clothing/Young Mens","5438_6016035_547964","Young Men's Styles","Clothing/Young Mens/Young Men's Styles"
+"161","3944","Electronics","Electronics","3944_1228636","3D Printing","Electronics/3D Printing","3944_1228636_1229096","3D Printing Accessories","Electronics/3D Printing/3D Printing Accessories"
+"162","3944","Electronics","Electronics","3944_1086506","Accessories","Electronics/Accessories","3944_1086506_1089150","App-Based Accessories","Electronics/Accessories/App-Based Accessories"
+"163","3944","Electronics","Electronics","3944_1229722","Apple Brand Experience","Electronics/Apple Brand Experience","3944_1229722_1230411","Beats By Dre","Electronics/Apple Brand Experience/Beats By Dre"
+"164","3944","Electronics","Electronics","3944_1156273","Apple iPad Air","Electronics/Apple iPad Air","3944_1156273_1156275","Apple iPad Air","Electronics/Apple iPad Air/Apple iPad Air"
+"165","3944","Electronics","Electronics","3944_133251","Audio","Electronics/Audio","3944_133251_133254","Satellite Radio","Electronics/Audio/Satellite Radio"
+"166","3944","Electronics","Electronics","3944_133277","Cameras & Camcorders","Electronics/Cameras & Camcorders","3944_133277_1166835","Waterproof Cameras","Electronics/Cameras & Camcorders/Waterproof Cameras"
+"167","3944","Electronics","Electronics","3944_3951","Computers","Electronics/Computers","3944_3951_1161897","Software Downloads","Electronics/Computers/Software Downloads"
+"168","3944","Electronics","Electronics","3944_1228606","Drones","Electronics/Drones",NA,NA,NA
+"169","3944","Electronics","Electronics","3944_3096707","Electronics Certified Refurbished","Electronics/Electronics Certified Refurbished","3944_3096707_6411839","Wearable Tech - Certified Refurbished","Electronics/Electronics Certified Refurbished/Wearable Tech - Certified Refurbished"
+"170","3944","Electronics","Electronics","3944_4439225","Electronics Tax Time","Electronics/Electronics Tax Time",NA,NA,NA
+"171","3944","Electronics","Electronics","3944_538883","GPS & Navigation","Electronics/GPS & Navigation","3944_538883_538886","Handheld GPS Units","Electronics/GPS & Navigation/Handheld GPS Units"
+"172","3944","Electronics","Electronics","3944_77622","Home Audio & Theater","Electronics/Home Audio & Theater","3944_77622_1172172","Surround Sound Speakers Systems","Electronics/Home Audio & Theater/Surround Sound Speakers Systems"
+"173","3944","Electronics","Electronics","3944_1078524","iPad & Tablets","Electronics/iPad & Tablets","3944_1078524_1231197","Windows Tablets","Electronics/iPad & Tablets/Windows Tablets"
+"174","3944","Electronics","Electronics","3944_96469","Portable Audio","Electronics/Portable Audio","3944_96469_4407","Voice Recorders","Electronics/Portable Audio/Voice Recorders"
+"175","3944","Electronics","Electronics","3944_8864326","Samsung Tax Time Savings","Electronics/Samsung Tax Time Savings",NA,NA,NA
+"176","3944","Electronics","Electronics","3944_1229875","Smart Home","Electronics/Smart Home","3944_1229875_9259047","Works with Google Assistant","Electronics/Smart Home/Works with Google Assistant"
+"177","3944","Electronics","Electronics","3944_47600","Surveillance Equipment","Electronics/Surveillance Equipment",NA,NA,NA
+"178","3944","Electronics","Electronics","3944_1060825","TV & Video","Electronics/TV & Video","3944_1060825_1939756","TVs by Brand","Electronics/TV & Video/TVs by Brand"
+"179","976759","Food","Food","976759_976780","Baking","Food/Baking","976759_976780_1044105","Yeast","Food/Baking/Yeast"
+"180","976759","Food","Food","976759_976782","Beverages","Food/Beverages","976759_976782_1228026","Water Flavoring","Food/Beverages/Water Flavoring"
+"181","976759","Food","Food","976759_976783","Breakfast & Cereal","Food/Breakfast & Cereal","976759_976783_1001336","Toaster Pastries","Food/Breakfast & Cereal/Toaster Pastries"
+"182","976759","Food","Food","976759_1096070","Chocolate, Candy & Gum","Food/Chocolate, Candy & Gum","976759_1096070_1224980","Variety & Bulk Packs","Food/Chocolate, Candy & Gum/Variety & Bulk Packs"
+"183","976759","Food","Food","976759_1086446","Coffee","Food/Coffee","976759_1086446_1229652","Whole Bean Coffee","Food/Coffee/Whole Bean Coffee"
+"184","976759","Food","Food","976759_976786","Condiments, Sauces & Spices","Food/Condiments, Sauces & Spices","976759_976786_1001366","Vinegar","Food/Condiments, Sauces & Spices/Vinegar"
+"185","976759","Food","Food","976759_4298561","Fresh Flowers","Food/Fresh Flowers",NA,NA,NA
+"186","976759","Food","Food","976759_1071964","Fresh Food","Food/Fresh Food","976759_1071964_976793","Produce","Food/Fresh Food/Produce"
+"187","976759","Food","Food","976759_1231294","Frito-Lay","Food/Frito-Lay",NA,NA,NA
+"188","976759","Food","Food","976759_976791","Frozen Foods","Food/Frozen Foods","976759_976791_1001416","Pizza","Food/Frozen Foods/Pizza"
+"189","976759","Food","Food","976759_1089004","Gift Baskets","Food/Gift Baskets","976759_1089004_6887763","Valentine's Day Gift Baskets","Food/Gift Baskets/Valentine's Day Gift Baskets"
+"190","976759","Food","Food","976759_1228023","Gluten-Free Foods","Food/Gluten-Free Foods","976759_1228023_1228016","Gluten-Free Foods","Food/Gluten-Free Foods/Gluten-Free Foods"
+"191","976759","Food","Food","976759_1228025","International Foods","Food/International Foods","976759_1228025_1228105","Other International Foods","Food/International Foods/Other International Foods"
+"192","976759","Food","Food","976759_8925069","Kosher Foods","Food/Kosher Foods",NA,NA,NA
+"193","976759","Food","Food","976759_7123943","Meal Kits & Specialty Food Boxes","Food/Meal Kits & Specialty Food Boxes","976759_7123943_4024237","Snack Boxes","Food/Meal Kits & Specialty Food Boxes/Snack Boxes"
+"194","976759","Food","Food","976759_976794","Meal Solutions, Grains & Pasta","Food/Meal Solutions, Grains & Pasta","976759_976794_1001374","Sauces","Food/Meal Solutions, Grains & Pasta/Sauces"
+"195","976759","Food","Food","976759_1228024","Organic Foods","Food/Organic Foods","976759_1228024_1228017","Organic Foods","Food/Organic Foods/Organic Foods"
+"196","976759","Food","Food","976759_976787","Snacks, Cookies & Chips","Food/Snacks, Cookies & Chips","976759_976787_2452884","Snack Mixes","Food/Snacks, Cookies & Chips/Snack Mixes"
+"197","976759","Food","Food","976759_1001359","Soups","Food/Soups",NA,NA,NA
+"198","976759","Food","Food","976759_1511546","Super Bowl LII Starts Here","Food/Super Bowl LII Starts Here",NA,NA,NA
+"199","976759","Food","Food","976759_4321481","Testing Season","Food/Testing Season","976759_4321481_3253105","On the Go Snacks","Food/Testing Season/On the Go Snacks"
+"200","1094765","Gifts & Registry","Gifts & Registry","1094765_133059","Gift Baskets","Gifts & Registry/Gift Baskets",NA,NA,NA
+"201","976760","Health","Health","976760_3771182","Allergy, Sinus, & Asthma Brands","Health/Allergy, Sinus, & Asthma Brands","976760_3771182_4130286","Zyrtec","Health/Allergy, Sinus, & Asthma Brands/Zyrtec"
+"202","976760","Health","Health","976760_7800369","Allergy, Sinus, & Asthma Ingredients","Health/Allergy, Sinus, & Asthma Ingredients","976760_7800369_9526923","Loratadine","Health/Allergy, Sinus, & Asthma Ingredients/Loratadine"
+"203","976760","Health","Health","976760_1274339","Aromatherapy & Relaxation","Health/Aromatherapy & Relaxation","976760_1274339_9149825","Single Essential Oils","Health/Aromatherapy & Relaxation/Single Essential Oils"
+"204","976760","Health","Health","976760_7831163","Children's Health","Health/Children's Health","976760_7831163_1668216","Toddlers & Kids' Health","Health/Children's Health/Toddlers & Kids' Health"
+"205","976760","Health","Health","976760_2289975","Diabetes Care Brands","Health/Diabetes Care Brands","976760_2289975_8870260","Shop All ReliOn","Health/Diabetes Care Brands/Shop All ReliOn"
+"206","976760","Health","Health","976760_1231757","Diabetic Supplies","Health/Diabetic Supplies","976760_1231757_4103023","Sharps Containers","Health/Diabetic Supplies/Sharps Containers"
+"207","976760","Health","Health","976760_1396434","Digestive Health","Health/Digestive Health","976760_1396434_4436551","Probiotics","Health/Digestive Health/Probiotics"
+"208","976760","Health","Health","976760_2351592","Digestive Health Brands","Health/Digestive Health Brands","976760_2351592_8714810","Zantac","Health/Digestive Health Brands/Zantac"
+"209","976760","Health","Health","976760_2633640","Ear Care Brands","Health/Ear Care Brands","976760_2633640_9112182","Wally's Natural Products","Health/Ear Care Brands/Wally's Natural Products"
+"210","976760","Health","Health","976760_1827704","Ear Care Type","Health/Ear Care Type","976760_1827704_4748913","Ear Wax Removal","Health/Ear Care Type/Ear Wax Removal"
+"211","976760","Health","Health","976760_5639913","Ear Symptom","Health/Ear Symptom","976760_5639913_6054008","Excess Earwax","Health/Ear Symptom/Excess Earwax"
+"212","976760","Health","Health","976760_9602210","Equate Health Care","Health/Equate Health Care","976760_9602210_3630199","Equate Vitamins & Minerals","Health/Equate Health Care/Equate Vitamins & Minerals"
+"213","976760","Health","Health","976760_9575239","Eye Care Brands","Health/Eye Care Brands","976760_9575239_6847504","Zaditor","Health/Eye Care Brands/Zaditor"
+"214","976760","Health","Health","976760_6313882","Eye Care Type","Health/Eye Care Type","976760_6313882_4136510","Eyelid Treatments","Health/Eye Care Type/Eyelid Treatments"
+"215","976760","Health","Health","976760_9053627","Eye Symptom","Health/Eye Symptom","976760_9053627_9863533","Itchy Eye","Health/Eye Symptom/Itchy Eye"
+"216","976760","Health","Health","976760_2571007","First Aid Brands","Health/First Aid Brands","976760_2571007_3781556","ScarAway","Health/First Aid Brands/ScarAway"
+"217","976760","Health","Health","976760_2527960","First Aid Type","Health/First Aid Type","976760_2527960_4075006","Hydrogen Peroxide","Health/First Aid Type/Hydrogen Peroxide"
+"218","976760","Health","Health","976760_4279385","Headaches","Health/Headaches",NA,NA,NA
+"219","976760","Health","Health","976760_1172220","Heart Health","Health/Heart Health","976760_1172220_1172218","Heart Healthy Supplements","Health/Heart Health/Heart Healthy Supplements"
+"220","976760","Health","Health","976760_1005860","Home Health Care","Health/Home Health Care","976760_1005860_1224838","Wheelchairs","Health/Home Health Care/Wheelchairs"
+"221","976760","Health","Health","976760_7010603","Lip Care Brands","Health/Lip Care Brands","976760_7010603_9150422","Nivea Lip Balms","Health/Lip Care Brands/Nivea Lip Balms"
+"222","976760","Health","Health","976760_36290","Massagers & Spa","Health/Massagers & Spa","976760_36290_1044044","Paraffin & Foot Baths","Health/Massagers & Spa/Paraffin & Foot Baths"
+"223","976760","Health","Health","976760_976798","Medicine Cabinet","Health/Medicine Cabinet","976760_976798_641101","Thermometers","Health/Medicine Cabinet/Thermometers"
+"224","976760","Health","Health","976760_6972993","Pain Reliever Brands","Health/Pain Reliever Brands","976760_6972993_5241861","Tylenol","Health/Pain Reliever Brands/Tylenol"
+"225","976760","Health","Health","976760_4492453","Pain Reliever Type","Health/Pain Reliever Type","976760_4492453_3483841","TENS Unit","Health/Pain Reliever Type/TENS Unit"
+"226","976760","Health","Health","976760_1166769","Protein & Fitness","Health/Protein & Fitness","976760_1166769_1440029","Women's Nutrition","Health/Protein & Fitness/Women's Nutrition"
+"227","976760","Health","Health","976760_1525725","Protein & Fitness Top Brands","Health/Protein & Fitness Top Brands","976760_1525725_4219672","Scivation","Health/Protein & Fitness Top Brands/Scivation"
+"228","976760","Health","Health","976760_1001759","Sexual Wellbeing","Health/Sexual Wellbeing",NA,NA,NA
+"229","976760","Health","Health","976760_1414629","Sexual Wellness Product Types","Health/Sexual Wellness Product Types","976760_1414629_2850088","Water Based Lubricants","Health/Sexual Wellness Product Types/Water Based Lubricants"
+"230","976760","Health","Health","976760_1876667","Sexual Wellness Top Brands","Health/Sexual Wellness Top Brands","976760_1876667_1793681","Wet","Health/Sexual Wellness Top Brands/Wet"
+"231","976760","Health","Health","976760_2667556","Sleep Aid Brands","Health/Sleep Aid Brands","976760_2667556_8119435","Unisom","Health/Sleep Aid Brands/Unisom"
+"232","976760","Health","Health","976760_2449239","Sleep Aid Type","Health/Sleep Aid Type","976760_2449239_4816619","Snoring","Health/Sleep Aid Type/Snoring"
+"233","976760","Health","Health","976760_5813114","Superfoods & Cleanses","Health/Superfoods & Cleanses","976760_5813114_5887725","Superfoods","Health/Superfoods & Cleanses/Superfoods"
+"234","976760","Health","Health","976760_1078944","Vision Centers","Health/Vision Centers","976760_1078944_1032920","Sunglasses","Health/Vision Centers/Sunglasses"
+"235","976760","Health","Health","976760_1005863","Vitamins & Supplements","Health/Vitamins & Supplements","976760_1005863_7753876","Women's Health Supplements","Health/Vitamins & Supplements/Women's Health Supplements"
+"236","976760","Health","Health","976760_1005859","Weight Management","Health/Weight Management","976760_1005859_1092395","Weight Loss Supplements","Health/Weight Management/Weight Loss Supplements"
+"237","4044","Home","Home","4044_90548","Appliances","Home/Appliances","4044_90548_1231154","Water Purification","Home/Appliances/Water Purification"
+"238","4044","Home","Home","4044_539095","Bath","Home/Bath","4044_539095_533461","Shower Curtains","Home/Bath/Shower Curtains"
+"239","4044","Home","Home","4044_539103","Bedding","Home/Bedding","4044_539103_133061","Sheets","Home/Bedding/Sheets"
+"240","4044","Home","Home","4044_133012","Decor","Home/Decor","4044_133012_1043827","Vases","Home/Decor/Vases"
+"241","4044","Home","Home","4044_1225301","Featured Shops","Home/Featured Shops","4044_1225301_1224843","Trends & Inspiration","Home/Featured Shops/Trends & Inspiration"
+"242","4044","Home","Home","4044_103150","Furniture","Home/Furniture","4044_103150_635499","TV Stands & Entertainment Centers","Home/Furniture/TV Stands & Entertainment Centers"
+"243","4044","Home","Home","4044_1154295","Kids' Rooms","Home/Kids' Rooms","4044_1154295_1155958","Kids' Furniture","Home/Kids' Rooms/Kids' Furniture"
+"244","4044","Home","Home","4044_623679","Kitchen & Dining","Home/Kitchen & Dining","4044_623679_1032619","Kitchen Storage & Organization","Home/Kitchen & Dining/Kitchen Storage & Organization"
+"245","4044","Home","Home","4044_444253","Luggage","Home/Luggage","4044_444253_444260","Travel Accessories","Home/Luggage/Travel Accessories"
+"246","4044","Home","Home","4044_133224","Personalized Gifts","Home/Personalized Gifts","4044_133224_7231792","Personalized Wedding Suite","Home/Personalized Gifts/Personalized Wedding Suite"
+"247","4044","Home","Home","4044_6975818","Personalized Office Supplies","Home/Personalized Office Supplies","4044_6975818_4060554","Office","Home/Personalized Office Supplies/Office"
+"248","4044","Home","Home","4044_2415585","Personalized Outdoor Decor","Home/Personalized Outdoor Decor","4044_2415585_5019042","Personalized Garden Flags","Home/Personalized Outdoor Decor/Personalized Garden Flags"
+"249","4044","Home","Home","4044_90828","Storage & Organization","Home/Storage & Organization","4044_90828_1230059","Storage Furniture","Home/Storage & Organization/Storage Furniture"
+"250","4044","Home","Home","4044_1156136","Teens' Rooms","Home/Teens' Rooms","4044_1156136_1156164","Teens' Storage","Home/Teens' Rooms/Teens' Storage"
+"251","1072864","Home Improvement","Home Improvement","1072864_1045879","Bathroom Renovation","Home Improvement/Bathroom Renovation","1072864_1045879_3861937","Utility Fixtures","Home Improvement/Bathroom Renovation/Utility Fixtures"
+"252","1072864","Home Improvement","Home Improvement","1072864_1172176","Building Materials","Home Improvement/Building Materials","1072864_1172176_1595187","Stair Parts","Home Improvement/Building Materials/Stair Parts"
+"253","1072864","Home Improvement","Home Improvement","1072864_1230916","Door Weatherization","Home Improvement/Door Weatherization",NA,NA,NA
+"254","1072864","Home Improvement","Home Improvement","1072864_1230758","Doors and Gates","Home Improvement/Doors and Gates","1072864_1230758_1067794","Screen Doors","Home Improvement/Doors and Gates/Screen Doors"
+"255","1072864","Home Improvement","Home Improvement","1072864_1067619","Electrical","Home Improvement/Electrical","1072864_1067619_1231235","Testers","Home Improvement/Electrical/Testers"
+"256","1072864","Home Improvement","Home Improvement","1072864_1067616","Flooring","Home Improvement/Flooring","1072864_1067616_1067815","Vinyl Flooring","Home Improvement/Flooring/Vinyl Flooring"
+"257","1072864","Home Improvement","Home Improvement","1072864_1067618","Garage & Storage","Home Improvement/Garage & Storage","1072864_1067618_4020692","Wall Organization","Home Improvement/Garage & Storage/Wall Organization"
+"258","1072864","Home Improvement","Home Improvement","1072864_1231265","Generators","Home Improvement/Generators","1072864_1231265_1231285","Standby Generators","Home Improvement/Generators/Standby Generators"
+"259","1072864","Home Improvement","Home Improvement","1072864_1087352","Green Energy","Home Improvement/Green Energy",NA,NA,NA
+"260","1072864","Home Improvement","Home Improvement","1072864_1067612","Hardware","Home Improvement/Hardware","1072864_1067612_1230817","Keys","Home Improvement/Hardware/Keys"
+"261","1072864","Home Improvement","Home Improvement","1072864_133032","Heating, Cooling, & Air Quality","Home Improvement/Heating, Cooling, & Air Quality","1072864_133032_7103650","Weatherization","Home Improvement/Heating, Cooling, & Air Quality/Weatherization"
+"262","1072864","Home Improvement","Home Improvement","1072864_1230393","Home Improvement Lubricants and Cleaning Supplies","Home Improvement/Home Improvement Lubricants and Cleaning Supplies","1072864_1230393_1067781","Home Improvement Lubricants & Greases","Home Improvement/Home Improvement Lubricants and Cleaning Supplies/Home Improvement Lubricants & Greases"
+"263","1072864","Home Improvement","Home Improvement","1072864_1068865","Home Safety","Home Improvement/Home Safety","1072864_1068865_1231087","Surveillance","Home Improvement/Home Safety/Surveillance"
+"264","1072864","Home Improvement","Home Improvement","1072864_105913","Hot Tubs & Saunas","Home Improvement/Hot Tubs & Saunas","1072864_105913_2867750","Saunas","Home Improvement/Hot Tubs & Saunas/Saunas"
+"265","1072864","Home Improvement","Home Improvement","1072864_3156946","House Plans","Home Improvement/House Plans",NA,NA,NA
+"266","1072864","Home Improvement","Home Improvement","1072864_1071485","Kitchen Renovation","Home Improvement/Kitchen Renovation","1072864_1071485_1230864","Kitchen Plumbing","Home Improvement/Kitchen Renovation/Kitchen Plumbing"
+"267","1072864","Home Improvement","Home Improvement","1072864_7800821","Laundry Room Renovation","Home Improvement/Laundry Room Renovation","1072864_7800821_2129437","Raw Materials","Home Improvement/Laundry Room Renovation/Raw Materials"
+"268","1072864","Home Improvement","Home Improvement","1072864_1102182","Outdoor Power Equipment","Home Improvement/Outdoor Power Equipment","1072864_1102182_2953136","Trimmers and Edgers","Home Improvement/Outdoor Power Equipment/Trimmers and Edgers"
+"269","1072864","Home Improvement","Home Improvement","1072864_1067617","Paint","Home Improvement/Paint","1072864_1067617_1230534","Wallpaper and Wall Borders","Home Improvement/Paint/Wallpaper and Wall Borders"
+"270","1072864","Home Improvement","Home Improvement","1072864_2145589","Pool Supplies","Home Improvement/Pool Supplies","1072864_2145589_8098276","Pool Pumps","Home Improvement/Pool Supplies/Pool Pumps"
+"271","1072864","Home Improvement","Home Improvement","1072864_1044263","Safety Equipment & Gear","Home Improvement/Safety Equipment & Gear",NA,NA,NA
+"272","1072864","Home Improvement","Home Improvement","1072864_6095430","Safety Equipment and Gear","Home Improvement/Safety Equipment and Gear",NA,NA,NA
+"273","1072864","Home Improvement","Home Improvement","1072864_1218921","Swimming Pools","Home Improvement/Swimming Pools",NA,NA,NA
+"274","1072864","Home Improvement","Home Improvement","1072864_1031899","Tools","Home Improvement/Tools","1072864_1031899_1067610","Tool Equipment & Storage","Home Improvement/Tools/Tool Equipment & Storage"
+"275","1072864","Home Improvement","Home Improvement","1072864_1231153","Water and Air Purification","Home Improvement/Water and Air Purification","1072864_1231153_1231154","Water Purification","Home Improvement/Water and Air Purification/Water Purification"
+"276","1072864","Home Improvement","Home Improvement","1072864_1230390","Welding and Soldering","Home Improvement/Welding and Soldering","1072864_1230390_1230392","Welding Parts and Accessories","Home Improvement/Welding and Soldering/Welding Parts and Accessories"
+"277","1072864","Home Improvement","Home Improvement","1072864_1230778","Windows","Home Improvement/Windows","1072864_1230778_1230783","Window Weatherization","Home Improvement/Windows/Window Weatherization"
+"278","1072864","Home Improvement","Home Improvement","1072864_1230395","Work Safety Clothing and Equipment","Home Improvement/Work Safety Clothing and Equipment","1072864_1230395_1044263","Safety Equipment & Gear","Home Improvement/Work Safety Clothing and Equipment/Safety Equipment & Gear"
+"279","1115193","Household Essentials","Household Essentials","1115193_1025739","Air Fresheners","Household Essentials/Air Fresheners","1115193_1025739_8403021","Plug In Air Freshener","Household Essentials/Air Fresheners/Plug In Air Freshener"
+"280","1115193","Household Essentials","Household Essentials","1115193_1111632","As Seen On TV","Household Essentials/As Seen On TV","1115193_1111632_5641784","As Seen on TV Toys","Household Essentials/As Seen On TV/As Seen on TV Toys"
+"281","1115193","Household Essentials","Household Essentials","1115193_1071965","Bathroom","Household Essentials/Bathroom","1115193_1071965_1149373","Disinfectant Spray","Household Essentials/Bathroom/Disinfectant Spray"
+"282","1115193","Household Essentials","Household Essentials","1115193_1076905","Batteries","Household Essentials/Batteries",NA,NA,NA
+"283","1115193","Household Essentials","Household Essentials","1115193_2606160","Clean Living Shop","Household Essentials/Clean Living Shop",NA,NA,NA
+"284","1115193","Household Essentials","Household Essentials","1115193_1071966","Cleaning Supplies","Household Essentials/Cleaning Supplies","1115193_1071966_1072129","Surface Care & Protection","Household Essentials/Cleaning Supplies/Surface Care & Protection"
+"285","1115193","Household Essentials","Household Essentials","1115193_1072124","Drain & Septic Care","Household Essentials/Drain & Septic Care",NA,NA,NA
+"286","1115193","Household Essentials","Household Essentials","1115193_2656690","Everyday Essentials","Household Essentials/Everyday Essentials",NA,NA,NA
+"287","1115193","Household Essentials","Household Essentials","1115193_1071968","Kitchen","Household Essentials/Kitchen","1115193_1071968_1155753","Dishwasher Detergent","Household Essentials/Kitchen/Dishwasher Detergent"
+"288","1115193","Household Essentials","Household Essentials","1115193_1071967","Laundry","Household Essentials/Laundry","1115193_1071967_1149381","Stain Removers","Household Essentials/Laundry/Stain Removers"
+"289","1115193","Household Essentials","Household Essentials","1115193_1073264","Paper & Plastic","Household Essentials/Paper & Plastic","1115193_1073264_1149385","Trash Bags","Household Essentials/Paper & Plastic/Trash Bags"
+"290","1115193","Household Essentials","Household Essentials","1115193_1025745","Pest Control","Household Essentials/Pest Control",NA,NA,NA
+"291","6197502","Industrial & Scientific","Industrial & Scientific","6197502_4964025","All Agriculture","Industrial & Scientific/All Agriculture",NA,NA,NA
+"292","6197502","Industrial & Scientific","Industrial & Scientific","6197502_4354243","All Commercial","Industrial & Scientific/All Commercial",NA,NA,NA
+"293","6197502","Industrial & Scientific","Industrial & Scientific","6197502_8172641","All Industrial","Industrial & Scientific/All Industrial",NA,NA,NA
+"294","6197502","Industrial & Scientific","Industrial & Scientific","6197502_5316930","Dental","Industrial & Scientific/Dental",NA,NA,NA
+"295","6197502","Industrial & Scientific","Industrial & Scientific","6197502_9698257","Farm & Ranch","Industrial & Scientific/Farm & Ranch","6197502_9698257_4192296","Poultry Care","Industrial & Scientific/Farm & Ranch/Poultry Care"
+"296","6197502","Industrial & Scientific","Industrial & Scientific","6197502_7664396","Food Service Equipment & Supplies","Industrial & Scientific/Food Service Equipment & Supplies","6197502_7664396_3755555","Restaurant Furniture","Industrial & Scientific/Food Service Equipment & Supplies/Restaurant Furniture"
+"297","6197502","Industrial & Scientific","Industrial & Scientific","6197502_1067614","Hardware Fasteners","Industrial & Scientific/Hardware Fasteners","6197502_1067614_1067809","Washers","Industrial & Scientific/Hardware Fasteners/Washers"
+"298","6197502","Industrial & Scientific","Industrial & Scientific","6197502_5702707","Janitorial & Sanitation Supplies","Industrial & Scientific/Janitorial & Sanitation Supplies","6197502_5702707_6193736","Waste Management","Industrial & Scientific/Janitorial & Sanitation Supplies/Waste Management"
+"299","6197502","Industrial & Scientific","Industrial & Scientific","6197502_3290676","Medical","Industrial & Scientific/Medical","6197502_3290676_4829140","Industrial First Aid Kits","Industrial & Scientific/Medical/Industrial First Aid Kits"
+"300","6197502","Industrial & Scientific","Industrial & Scientific","6197502_7529461","Metal Working & Cutting Tools","Industrial & Scientific/Metal Working & Cutting Tools","6197502_7529461_1340444","Welding Machines","Industrial & Scientific/Metal Working & Cutting Tools/Welding Machines"
+"301","6197502","Industrial & Scientific","Industrial & Scientific","6197502_8985048","Occupational Health & Safety Products","Industrial & Scientific/Occupational Health & Safety Products","6197502_8985048_6085407","Visual Safety","Industrial & Scientific/Occupational Health & Safety Products/Visual Safety"
+"302","6197502","Industrial & Scientific","Industrial & Scientific","6197502_2011896","Specialty Fasteners","Industrial & Scientific/Specialty Fasteners","6197502_2011896_1067807","Staples","Industrial & Scientific/Specialty Fasteners/Staples"
+"303","6197502","Industrial & Scientific","Industrial & Scientific","6197502_5461022","Telescopes and Microscopes","Industrial & Scientific/Telescopes and Microscopes","6197502_5461022_6045186","Telescopes","Industrial & Scientific/Telescopes and Microscopes/Telescopes"
+"304","6197502","Industrial & Scientific","Industrial & Scientific","6197502_5602287","Weather Stations","Industrial & Scientific/Weather Stations",NA,NA,NA
+"305","3891","Jewelry","Jewelry","3891_1228260","All Men's Jewelry","Jewelry/All Men's Jewelry",NA,NA,NA
+"306","3891","Jewelry","Jewelry","3891_6817640","Anklets","Jewelry/Anklets",NA,NA,NA
+"307","3891","Jewelry","Jewelry","3891_1030159","Body Jewelry","Jewelry/Body Jewelry",NA,NA,NA
+"308","3891","Jewelry","Jewelry","3891_3716326","Bracelets","Jewelry/Bracelets",NA,NA,NA
+"309","3891","Jewelry","Jewelry","3891_3072233","Brooches & Pins","Jewelry/Brooches & Pins",NA,NA,NA
+"310","3891","Jewelry","Jewelry","3891_7589917","Charms","Jewelry/Charms",NA,NA,NA
+"311","3891","Jewelry","Jewelry","3891_655299","Cleaners & Repair","Jewelry/Cleaners & Repair",NA,NA,NA
+"312","3891","Jewelry","Jewelry","3891_1043852","Cufflinks","Jewelry/Cufflinks",NA,NA,NA
+"313","3891","Jewelry","Jewelry","3891_9654536","Diamond Jewelry","Jewelry/Diamond Jewelry","3891_9654536_5414465","Diamond Stud Earrings","Jewelry/Diamond Jewelry/Diamond Stud Earrings"
+"314","3891","Jewelry","Jewelry","3891_3940271","Earrings","Jewelry/Earrings",NA,NA,NA
+"315","3891","Jewelry","Jewelry","3891_1228263","Fashion Jewelry","Jewelry/Fashion Jewelry","3891_1228263_1228264","Fashion Rings","Jewelry/Fashion Jewelry/Fashion Rings"
+"316","3891","Jewelry","Jewelry","3891_1228254","Fine Jewelry","Jewelry/Fine Jewelry","3891_1228254_1228255","Fine Rings","Jewelry/Fine Jewelry/Fine Rings"
+"317","3891","Jewelry","Jewelry","3891_5839874","Gemstone Jewelry","Jewelry/Gemstone Jewelry","3891_5839874_8734413","Sapphire Rings","Jewelry/Gemstone Jewelry/Sapphire Rings"
+"318","3891","Jewelry","Jewelry","3891_3591036","Gold Jewelry","Jewelry/Gold Jewelry","3891_3591036_3327125","Gold Rings","Jewelry/Gold Jewelry/Gold Rings"
+"319","3891","Jewelry","Jewelry","3891_132987","Jewelry Boxes & Organizers","Jewelry/Jewelry Boxes & Organizers",NA,NA,NA
+"320","3891","Jewelry","Jewelry","3891_8069787","Jewelry Brands","Jewelry/Jewelry Brands","3891_8069787_7870980","X & O Swarovski","Jewelry/Jewelry Brands/X & O Swarovski"
+"321","3891","Jewelry","Jewelry","3891_7092051","Jewelry Sets","Jewelry/Jewelry Sets",NA,NA,NA
+"322","3891","Jewelry","Jewelry","3891_4201804","Kid's Jewelry","Jewelry/Kid's Jewelry","3891_4201804_1228270","Kids' Jewelry","Jewelry/Kids' Jewelry & Watches/Kids' Jewelry"
+"323","3891","Jewelry","Jewelry","3891_1228270","Kids' Jewelry","Jewelry/Kids' Jewelry",NA,NA,NA
+"324","3891","Jewelry","Jewelry","3891_1966546","Men's Jewelry","Jewelry/Men's Jewelry","3891_1966546_5891841","Tie Clips","Jewelry/Men's Jewelry/Tie Clips"
+"325","3891","Jewelry","Jewelry","3891_5654967","Necklaces","Jewelry/Necklaces",NA,NA,NA
+"326","3891","Jewelry","Jewelry","3891_5258701","Pearl Jewelry","Jewelry/Pearl Jewelry","3891_5258701_2775742","Pearl Rings","Jewelry/Pearl Jewelry/Pearl Rings"
+"327","3891","Jewelry","Jewelry","3891_3416668","Pendants","Jewelry/Pendants",NA,NA,NA
+"328","3891","Jewelry","Jewelry","3891_532459","Personalized Jewelry","Jewelry/Personalized Jewelry","3891_532459_1019840","Personalized Rings","Jewelry/Personalized Jewelry/Personalized Rings"
+"329","3891","Jewelry","Jewelry","3891_4718514","Precious Metals","Jewelry/Precious Metals","3891_4718514_7871360","Silver Bullion","Jewelry/Precious Metals/Silver Bullion"
+"330","3891","Jewelry","Jewelry","3891_9405348","Rings","Jewelry/Rings",NA,NA,NA
+"331","3891","Jewelry","Jewelry","3891_8018553","Rose Gold Jewelry","Jewelry/Rose Gold Jewelry","3891_8018553_7833442","Rose Gold Rings","Jewelry/Rose Gold Jewelry/Rose Gold Rings"
+"332","3891","Jewelry","Jewelry","3891_4919258","Silver Jewelry","Jewelry/Silver Jewelry","3891_4919258_5827493","Silver Rings","Jewelry/Silver Jewelry/Silver Rings"
+"333","3891","Jewelry","Jewelry","3891_8327104","Special Occasion Jewelry","Jewelry/Special Occasion Jewelry","3891_8327104_6871480","Quinceanera","Jewelry/Special Occasion Jewelry/Quinceanera"
+"334","3891","Jewelry","Jewelry","3891_1683532","Storage, Cleaners & Body Jewelry","Jewelry/Storage, Cleaners & Body Jewelry","3891_1683532_132987","Jewelry Storage","Jewelry/Storage, Cleaners & Body Jewelry/Jewelry Storage"
+"335","3891","Jewelry","Jewelry","3891_1351793","Theme","Jewelry/Theme","3891_1351793_5210428","Star Wars Jewelry","Jewelry/Theme/Star Wars Jewelry"
+"336","3891","Jewelry","Jewelry","3891_8364956","Toe Rings","Jewelry/Toe Rings",NA,NA,NA
+"337","3891","Jewelry","Jewelry","3891_3906","Watches","Jewelry/Watches","3891_3906_3089886","Women's Watches","Jewelry/Watches/Women's Watches"
+"338","3891","Jewelry","Jewelry","3891_540912","Wedding & Engagement Rings","Jewelry/Wedding & Engagement Rings","3891_540912_4096808","Wedding Rings","Jewelry/Wedding & Engagement Rings/Wedding Rings"
+"339","3891","Jewelry","Jewelry","3891_7833638","White Gold Jewelry","Jewelry/White Gold Jewelry","3891_7833638_3299835","White Gold Rings","Jewelry/White Gold Jewelry/White Gold Rings"
+"340","4096","Movies & TV Shows","Movies & TV Shows","4096_3315790","4k Ultra HD Movies","Movies & TV Shows/4k Ultra HD Movies","4096_3315790_1172214","All 4K Ultra HD Movies","Movies & TV Shows/4k Ultra HD Movies/All 4K Ultra HD Movies"
+"341","4096","Movies & TV Shows","Movies & TV Shows","4096_616859","Blu-ray","Movies & TV Shows/Blu-ray","4096_616859_617024","Westerns","Movies & TV Shows/Blu-ray/Westerns"
+"342","4096","Movies & TV Shows","Movies & TV Shows","4096_2954402","Comedy","Movies & TV Shows/Comedy",NA,NA,NA
+"343","4096","Movies & TV Shows","Movies & TV Shows","4096_1088549","Complete Series Box Sets & Collections","Movies & TV Shows/Complete Series Box Sets & Collections",NA,NA,NA
+"344","4096","Movies & TV Shows","Movies & TV Shows","4096_5732611","complete series test","Movies & TV Shows/complete series test",NA,NA,NA
+"345","4096","Movies & TV Shows","Movies & TV Shows","4096_1106153","Disney","Movies & TV Shows/Disney",NA,NA,NA
+"346","4096","Movies & TV Shows","Movies & TV Shows","4096_9872761","Harry Potter Movies","Movies & TV Shows/Harry Potter Movies",NA,NA,NA
+"347","4096","Movies & TV Shows","Movies & TV Shows","4096_8637693","Holiday","Movies & TV Shows/Holiday",NA,NA,NA
+"348","4096","Movies & TV Shows","Movies & TV Shows","4096_1084447","Instant Video Streaming by Vudu","Movies & TV Shows/Instant Video Streaming by Vudu","4096_1084447_1085153","TV Shows","Movies & TV Shows/Instant Video Streaming by Vudu/TV Shows"
+"349","4096","Movies & TV Shows","Movies & TV Shows","4096_1228693","Instawatch Movies By VUDU","Movies & TV Shows/Instawatch Movies By VUDU","4096_1228693_8642119","Instawatch Mystery & Suspense Movies","Movies & TV Shows/Instawatch Movies By VUDU/Instawatch Mystery & Suspense Movies"
+"350","4096","Movies & TV Shows","Movies & TV Shows","4096_7331601","Marvel","Movies & TV Shows/Marvel",NA,NA,NA
+"351","4096","Movies & TV Shows","Movies & TV Shows","4096_3439197","Movie Bundles & Collections","Movies & TV Shows/Movie Bundles & Collections",NA,NA,NA
+"352","4096","Movies & TV Shows","Movies & TV Shows","4096_530598","Movies","Movies & TV Shows/Movies","4096_530598_530721","Western Movies","Movies & TV Shows/Movies/Western Movies"
+"353","4096","Movies & TV Shows","Movies & TV Shows","4096_530719","TV Shows","Movies & TV Shows/TV Shows","4096_530719_531651","War & Politics","Movies & TV Shows/TV Shows/War & Politics"
+"354","4096","Movies & TV Shows","Movies & TV Shows","4096_1102661","Under $5","Movies & TV Shows/Under $5",NA,NA,NA
+"355","4096","Movies & TV Shows","Movies & TV Shows","4096_1095777","Walmart Exclusives","Movies & TV/Walmart Exclusives",NA,NA,NA
+"356","4104","Music on CD or Vinyl","Music on CD or Vinyl","4104_4105","Blues Music on CD or Vinyl","Music on CD or Vinyl/Blues Music on CD or Vinyl","4104_4105_5004","Traditional Blues Music on CD or Vinyl","Music on CD or Vinyl/Blues Music on CD or Vinyl/Traditional Blues Music on CD or Vinyl"
+"357","4104","Music on CD or Vinyl","Music on CD or Vinyl","4104_4106","Children's Music on CD or Vinyl","Music on CD or Vinyl/Children's Music on CD or Vinyl","4104_4106_5012","Children's Sing-a-Long Music on CD or Vinyl","Music on CD or Vinyl/Children's Music on CD or Vinyl/Children's Sing-a-Long Music on CD or Vinyl"
+"358","4104","Music on CD or Vinyl","Music on CD or Vinyl","4104_4107","Christian + Gospel Music on CD or Vinyl","Music on CD or Vinyl/Christian + Gospel Music on CD or Vinyl","4104_4107_5021","Southern Gospel Music on CD or Vinyl","Music on CD or Vinyl/Christian + Gospel Music on CD or Vinyl/Southern Gospel Music on CD or Vinyl"
+"359","4104","Music on CD or Vinyl","Music on CD or Vinyl","4104_4108","Classical Music on CD or Vinyl","Music on CD or Vinyl/Classical Music on CD or Vinyl","4104_4108_5025","Opera \/ Vocal Music on CD or Vinyl","Music on CD or Vinyl/Classical Music on CD or Vinyl/Opera \/ Vocal Music on CD or Vinyl"
+"360","4104","Music on CD or Vinyl","Music on CD or Vinyl","4104_4109","Country Music on CD or Vinyl","Music on CD or Vinyl/Country Music on CD or Vinyl","4104_4109_5030","Traditional Country Music on CD or Vinyl","Music on CD or Vinyl/Country Music on CD or Vinyl/Traditional Country Music on CD or Vinyl"
+"361","4104","Music on CD or Vinyl","Music on CD or Vinyl","4104_4110","Dance \/ DJ Music on CD or Vinyl","Music on CD or Vinyl/Dance \/ DJ Music on CD or Vinyl","4104_4110_5042","Trip-Hop","Music on CD or Vinyl/Dance \/ DJ Music on CD or Vinyl/Trip-Hop"
+"362","4104","Music on CD or Vinyl","Music on CD or Vinyl","4104_4111","Folk Music on CD or Vinyl","Music on CD or Vinyl/Folk Music on CD or Vinyl","4104_4111_5046","Traditional Folk Music on CD or Vinyl","Music on CD or Vinyl/Folk Music on CD or Vinyl/Traditional Folk Music on CD or Vinyl"
+"363","4104","Music on CD or Vinyl","Music on CD or Vinyl","4104_9999353","Gift cards","Music on CD or Vinyl/Gift cards",NA,NA,NA
+"364","4104","Music on CD or Vinyl","Music on CD or Vinyl","4104_4112","Jazz Music on CD or Vinyl","Music on CD or Vinyl/Jazz Music on CD or Vinyl","4104_4112_5056","Vocal Jazz Music on CD or Vinyl","Music on CD or Vinyl/Jazz Music on CD or Vinyl/Vocal Jazz Music on CD or Vinyl"
+"365","4104","Music on CD or Vinyl","Music on CD or Vinyl","4104_136735","Karaoke","Music on CD or Vinyl/Karaoke","4104_136735_5133239","All Karaoke Music","Music on CD or Vinyl/Karaoke/All Karaoke Music"
+"366","4104","Music on CD or Vinyl","Music on CD or Vinyl","4104_4113","Latin Music on CD or Vinyl Record","Music on CD or Vinyl/Latin Music on CD or Vinyl Record","4104_4113_5070","Tango Music on CD or Vinyl","Music on CD or Vinyl/Latin Music on CD or Vinyl Record/Tango Music on CD or Vinyl"
+"367","4104","Music on CD or Vinyl","Music on CD or Vinyl","4104_538232","Music DVD's","Music on CD or Vinyl/Music DVD's","4104_538232_101914","Music Videos","Music on CD or Vinyl/Music DVD's/Music Videos"
+"368","4104","Music on CD or Vinyl","Music on CD or Vinyl","4104_3015463","Music: Cassette Tapes","Music on CD or Vinyl/Music: Cassette Tapes",NA,NA,NA
+"369","4104","Music on CD or Vinyl","Music on CD or Vinyl","4104_4114","New Age Music on CD or Vinyl","Music on CD or Vinyl/New Age Music on CD or Vinyl","4104_4114_5075","New Age Vocal Music on CD or Vinyl","Music on CD or Vinyl/New Age Music on CD or Vinyl/New Age Vocal Music on CD or Vinyl"
+"370","4104","Music on CD or Vinyl","Music on CD or Vinyl","4104_4115","Pop Music on CD or Vinyl","Music on CD or Vinyl/Pop Music on CD or Vinyl","4104_4115_5096","Pop Rock Music on CD or Vinyl","Music on CD or Vinyl/Pop Music on CD or Vinyl/Pop Rock Music on CD or Vinyl"
+"371","4104","Music on CD or Vinyl","Music on CD or Vinyl","4104_4116","R&B \/ Soul Music on CD or Vinyl","Music on CD or Vinyl/R&B \/ Soul Music on CD or Vinyl","4104_4116_5083","Traditional R&B \/ Soul Music: CDs & Vinyl Records","Music on CD or Vinyl/R&B \/ Soul Music on CDs & Vinyl Records/Traditional R&B \/ Soul Music: CDs & Vinyl Records"
+"372","4104","Music on CD or Vinyl","Music on CD or Vinyl","4104_4117","Rap \/ Hip-Hop on CDs & Vinyl","Music on CD or Vinyl/Rap \/ Hip-Hop on CDs & Vinyl","4104_4117_7766072","Rap Hip-Hop: Vinyl Records","Music on CD or Vinyl/Rap \/ Hip-Hop on CDs & Vinyl/Rap Hip-Hop: Vinyl Records"
+"373","4104","Music on CD or Vinyl","Music on CD or Vinyl","4104_4118","Rock Music on CD or Vinyl","Music on CD or Vinyl/Rock Music on CD or Vinyl","4104_4118_5095","Rock N' Roll Oldies Music on CD or Vinyl","Music on CD or Vinyl/Rock Music on CD or Vinyl/Rock N' Roll Oldies Music on CD or Vinyl"
+"374","4104","Music on CD or Vinyl","Music on CD or Vinyl","4104_4119","Soundtracks","Music on CD or Vinyl/Soundtracks","4104_4119_5102","TV Soundtracks","Music on CD or Vinyl/Soundtracks/TV Soundtracks"
+"375","4104","Music on CD or Vinyl","Music on CD or Vinyl","4104_4120","Special Interest","Music on CD or Vinyl/Special Interest","4104_4120_4123","Wedding","Music on CD or Vinyl/Special Interest/Wedding"
+"376","4104","Music on CD or Vinyl","Music on CD or Vinyl","4104_1205481","Vinyl Records","Music on CD or Vinyl/Vinyl Records","4104_1205481_9901623","Soundtracks: Vinyl Records","Music on CD or Vinyl/Music: Vinyl Records/Soundtracks: Vinyl Records"
+"377","4104","Music on CD or Vinyl","Music on CD or Vinyl","4104_4782262","Vinyl Records","Music on CD or Vinyl/Vinyl Records","4104_4782262_1205481","Music: Vinyl Records","Music on CD or Vinyl/Vinyl Records/Music: Vinyl Records"
+"378","4104","Music on CD or Vinyl","Music on CD or Vinyl","4104_4124","World Music \/ Reggae","Music on CD or Vinyl/World Music \/ Reggae","4104_4124_5121","Various Artists","Music on CD or Vinyl/World Music \/ Reggae/Various Artists"
+"379","7796869","Musical Instruments","Musical Instruments","7796869_1120714","Accordions & Concertinas","Musical Instruments/Accordions & Concertinas",NA,NA,NA
+"380","7796869","Musical Instruments","Musical Instruments","7796869_6137798","Amplifiers & Effects","Musical Instruments/Amplifiers & Effects","7796869_6137798_3673870","Guitar Effects","Musical Instruments/Amplifiers & Effects/Guitar Effects"
+"381","7796869","Musical Instruments","Musical Instruments","7796869_1097884","Band & Orchestra","Musical Instruments/Band & Orchestra","7796869_1097884_1141074","Woodwinds","Musical Instruments/Band & Orchestra/Woodwinds"
+"382","7796869","Musical Instruments","Musical Instruments","7796869_2038298","Blue Microphones","Musical Instruments/Blue Microphones",NA,NA,NA
+"383","7796869","Musical Instruments","Musical Instruments","7796869_8572862","Casio Instruments","Musical Instruments/Casio Instruments",NA,NA,NA
+"384","7796869","Musical Instruments","Musical Instruments","7796869_3118256","Chromacast","Musical Instruments/Chromacast","7796869_3118256_7023620","ChromaCast","Musical Instruments/Chromacast/ChromaCast"
+"385","7796869","Musical Instruments","Musical Instruments","7796869_1097690","DJ Equipment","Musical Instruments/DJ Equipment","7796869_1097690_1097694","Lighting & Stage Effects","Musical Instruments/DJ Equipment/Lighting & Stage Effects"
+"386","7796869","Musical Instruments","Musical Instruments","7796869_1097852","Drums & Percussion","Musical Instruments/Drums & Percussion","7796869_1097852_1097857","World Percussion","Musical Instruments/Drums & Percussion/World Percussion"
+"387","7796869","Musical Instruments","Musical Instruments","7796869_3348689","Electronic Music, DJ and Karaoke","Musical Instruments/Electronic Music, DJ and Karaoke","7796869_3348689_3896240","Lighting","Musical Instruments/Electronic Music, DJ and Karaoke/Lighting"
+"388","7796869","Musical Instruments","Musical Instruments","7796869_2254160","Epiphone","Musical Instruments/Epiphone",NA,NA,NA
+"389","7796869","Musical Instruments","Musical Instruments","7796869_7578654","Fender","Musical Instruments/Fender",NA,NA,NA
+"390","7796869","Musical Instruments","Musical Instruments","7796869_1097866","Folk & World Instruments","Musical Instruments/Folk & World Instruments","7796869_1097866_1044259","Folk & World Instruments","Musical Instruments/Folk & World Instruments/Folk & World Instruments"
+"391","7796869","Musical Instruments","Musical Instruments","7796869_1097870","Guitars","Musical Instruments/Guitars","7796869_1097870_106985","Guitars","Musical Instruments/Guitars/Guitars"
+"392","7796869","Musical Instruments","Musical Instruments","7796869_6171829","Instrument Accessories","Musical Instruments/Instrument Accessories","7796869_6171829_3641090","Wind and Woodwind Accessories","Musical Instruments/Instrument Accessories/Wind and Woodwind Accessories"
+"393","7796869","Musical Instruments","Musical Instruments","7796869_106984","Karaoke Machines & Equipment","Musical Instruments/Karaoke Machines & Equipment",NA,NA,NA
+"394","7796869","Musical Instruments","Musical Instruments","7796869_5118951","Maestro by Gibson","Musical Instruments/Maestro by Gibson",NA,NA,NA
+"395","7796869","Musical Instruments","Musical Instruments","7796869_1133473","Megaphones","Musical Instruments/Megaphones",NA,NA,NA
+"396","7796869","Musical Instruments","Musical Instruments","7796869_8300411","Mendini","Musical Instruments/Mendini",NA,NA,NA
+"397","7796869","Musical Instruments","Musical Instruments","7796869_1097895","Musical Instruction","Musical Instruments/Musical Instruction","7796869_1097895_1097939","Practice & Performance Aids","Musical Instruments/Musical Instruction/Practice & Performance Aids"
+"398","7796869","Musical Instruments","Musical Instruments","7796869_3297174","Musical Instrument Accessories","Musical Instruments/Musical Instrument Accessories",NA,NA,NA
+"399","7796869","Musical Instruments","Musical Instruments","7796869_8743717","On-Stage","Musical Instruments/On-Stage",NA,NA,NA
+"400","7796869","Musical Instruments","Musical Instruments","7796869_1128453","Piano Keyboards","Musical Instruments/Piano Keyboards","7796869_1128453_106983","Keyboards","Musical Instruments/Keyboards & Accessories/Keyboards"
+"401","7796869","Musical Instruments","Musical Instruments","7796869_5034780","Sawtooth","Musical Instruments/Sawtooth","7796869_5034780_1436331","Sawtooth","Musical Instruments/Sawtooth/Sawtooth"
+"402","7796869","Musical Instruments","Musical Instruments","7796869_2903324","Sennheiser","Musical Instruments/Sennheiser",NA,NA,NA
+"403","7796869","Musical Instruments","Musical Instruments","7796869_7274512","The Singing Machine","Musical Instruments/The Singing Machine",NA,NA,NA
+"404","7796869","Musical Instruments","Musical Instruments","7796869_6631240","Yamaha Instruments","Musical Instruments/Yamaha Instruments",NA,NA,NA
+"405","1229749","Office","Office","1229749_1086976","Breakroom Supplies","Office/Breakroom Supplies","1229749_1086976_1086978","First Aid Supplies","Office/Breakroom Supplies/First Aid Supplies"
+"406","1229749","Office","Office","1229749_630139","Calendars","Office/Calendars","1229749_630139_1019674","Travel","Office/Calendars/Travel"
+"407","1229749","Office","Office","1229749_1086977","Janitorial Supplies","Office/Janitorial Supplies","1229749_1086977_1086992","Safety","Office/Janitorial Supplies/Safety"
+"408","1229749","Office","Office","1229749_4875429","Office Bulk Buys","Office/Office Bulk Buys",NA,NA,NA
+"409","1229749","Office","Office","1229749_1046059","Office Supplies","Office/Office Supplies","1229749_1046059_9607197","Writing Supplies","Office/Office Supplies/Writing Supplies"
+"410","1229749","Office","Office","1229749_1070964","Office Technology","Office/Office Technology","1229749_1070964_1072413","Typewriters & Supplies","Office/Office Technology/Typewriters & Supplies"
+"411","1229749","Office","Office","1229749_6562796","Paper","Office/Paper","1229749_6562796_6200315","Wide Format Paper","Office/Paper/Wide Format Paper"
+"412","1229749","Office","Office","1229749_1086045","School Supplies","Office/School Supplies","1229749_1086045_3462603","Teaching and Classroom Supplies","Office/School Supplies/Teaching and Classroom Supplies"
+"413","1229749","Office","Office","1229749_2696828","Shipping and Moving","Office/Shipping and Moving","1229749_2696828_9735797","Shipping Supplies","Office/Shipping and Moving/Shipping Supplies"
+"414","1229749","Office","Office","1229749_6735581","Walmart for Business","Office/Walmart for Business",NA,NA,NA
+"415","2637","Party & Occasions","Party & Occasions","2637_633379","Christmas Trees & Holiday Decor","Party & Occasions/Christmas Trees & Holiday Decor","2637_633379_1076945","Wreaths & Garland","Party & Occasions/Christmas Trees & Holiday Decor/Wreaths & Garland"
+"416","2637","Party & Occasions","Party & Occasions","2637_667479","Crafts","Party & Occasions/Crafts","2637_667479_1021745","Scrapbooking & Paper Crafts","Party & Occasions/Crafts/Scrapbooking & Paper Crafts"
+"417","2637","Party & Occasions","Party & Occasions","2637_615760","Halloween","Party & Occasions/Halloween","2637_615760_1231430","Halloween Treats","Party & Occasions/Halloween/Halloween Treats"
+"418","2637","Party & Occasions","Party & Occasions","2637_1227918","Harvest","Party & Occasions/Harvest",NA,NA,NA
+"419","2637","Party & Occasions","Party & Occasions","2637_1102379","Judaica","Party & Occasions/Judaica",NA,NA,NA
+"420","2637","Party & Occasions","Party & Occasions","2637_1042319","Party Supplies","Party & Occasions/Party Supplies","2637_1042319_1094725","Pinatas & Balloons","Party & Occasions/Party Supplies/Pinatas & Balloons"
+"421","2637","Party & Occasions","Party & Occasions","2637_112776","Wedding Shop","Party & Occasions/Wedding Shop","2637_112776_117542","Wedding Accessories","Party & Occasions/Wedding Shop/Wedding Accessories"
+"422","5428","Patio & Garden","Patio & Garden","5428_4091","Gardening & Lawn Care","Patio & Garden/Gardening & Lawn Care","5428_4091_2462840","Watering & Irrigation","Patio & Garden/Garden Center/Watering & Irrigation"
+"423","5428","Patio & Garden","Patio & Garden","5428_4089","Grills & Outdoor Cooking","Patio & Garden/Grills & Outdoor Cooking","5428_4089_7658896","Outdoor Cooking","Patio & Garden/Grills & Outdoor Cooking/Outdoor Cooking"
+"424","5428","Patio & Garden","Patio & Garden","5428_105913","Hot Tubs & Saunas","Patio & Garden/Hot Tubs & Saunas","5428_105913_2867750","Saunas","Patio & Garden/Hot Tubs & Saunas/Saunas"
+"425","5428","Patio & Garden","Patio & Garden","5428_5026924","Outdoor Heating","Patio & Garden/Outdoor Heating","5428_5026924_2990277","Patio Heaters","Patio & Garden/Outdoor Heating/Patio Heaters"
+"426","5428","Patio & Garden","Patio & Garden","5428_4423804","Outdoor Lighting","Patio & Garden/Outdoor Lighting","5428_4423804_9486078","Outdoor Wall Lighting","Patio & Garden/Outdoor Lighting/Outdoor Wall Lighting"
+"427","5428","Patio & Garden","Patio & Garden","5428_1102182","Outdoor Power Equipment","Patio & Garden/Outdoor Power Equipment","5428_1102182_2953136","Trimmers and Edgers","Patio & Garden/Outdoor Power Equipment/Trimmers and Edgers"
+"428","5428","Patio & Garden","Patio & Garden","5428_5593752","Outdoor Shade","Patio & Garden/Outdoor Shade","5428_5593752_3610660","Umbrella Stands & Bases","Patio & Garden/Outdoor Shade/Umbrella Stands & Bases"
+"429","5428","Patio & Garden","Patio & Garden","5428_1218910","Patio & Garden Collections","Patio & Garden/Patio & Garden Collections","5428_1218910_1101444","Azalea Ridge Collection","Patio & Garden/Patio & Garden Collections/Azalea Ridge Collection"
+"430","5428","Patio & Garden","Patio & Garden","5428_1102183","Patio & Outdoor Decor","Patio & Garden/Patio & Outdoor Decor","5428_1102183_2816336","Wind Chimes","Patio & Garden/Patio & Outdoor Decor/Wind Chimes"
+"431","5428","Patio & Garden","Patio & Garden","5428_91416","Patio Furniture","Patio & Garden/Patio Furniture","5428_91416_1424120","Zero Gravity Chairs","Patio & Garden/Patio Furniture/Zero Gravity Chairs"
+"432","5428","Patio & Garden","Patio & Garden","5428_8018905","Sheds & Outdoor Storage","Patio & Garden/Sheds & Outdoor Storage","5428_8018905_133064","Sheds","Patio & Garden/Sheds & Outdoor Storage/Sheds"
+"433","1005862","Personal Care","Personal Care","1005862_1071969","Bath & Body","Personal Care/Bath & Body","1005862_1071969_7183831","Stretch Mark Treatments","Personal Care/Bath & Body/Stretch Mark Treatments"
+"434","1005862","Personal Care","Personal Care","1005862_1694681","Bath & Shower","Personal Care/Bath & Shower",NA,NA,NA
+"435","1005862","Personal Care","Personal Care","1005862_1001487","Deodorants & Antiperspirants","Personal Care/Deodorants & Antiperspirants",NA,NA,NA
+"436","1005862","Personal Care","Personal Care","1005862_1001741","Foot Care","Personal Care/Foot Care",NA,NA,NA
+"437","1005862","Personal Care","Personal Care","1005862_1588421","Foot Care Brands","Personal Care/Foot Care Brands","1005862_1588421_2844986","Spenco","Personal Care/Foot Care Brands/Spenco"
+"438","1005862","Personal Care","Personal Care","1005862_1007219","Hair Care","Personal Care/Hair Care","1005862_1007219_6934692","Wahl Hair Cutting Tools","Personal Care/Hair Care/Wahl Hair Cutting Tools"
+"439","1005862","Personal Care","Personal Care","1005862_9011420","Hand Sanitizers","Personal Care/Hand Sanitizers",NA,NA,NA
+"440","1005862","Personal Care","Personal Care","1005862_1001719","Hand Soap","Personal Care/Hand Soap",NA,NA,NA
+"441","1005862","Personal Care","Personal Care","1005862_5182030","L'Oreal Elvive","Personal Care/L'Oreal Elvive",NA,NA,NA
+"442","1005862","Personal Care","Personal Care","1005862_1056884","Men's Essentials","Personal Care/Men's Essentials","1005862_1056884_2543345","Men's Styling Products","Personal Care/Men's Essentials/Men's Styling Products"
+"443","1005862","Personal Care","Personal Care","1005862_7170281","Naturals","Personal Care/Naturals",NA,NA,NA
+"444","1005862","Personal Care","Personal Care","1005862_1007221","Oral Care","Personal Care/Oral Care","1005862_1007221_5270254","Waterpik","Personal Care/Oral Care/Waterpik"
+"445","1005862","Personal Care","Personal Care","1005862_1007220","Shaving","Personal Care/Shaving","1005862_1007220_7396738","Women's Shaving Cream","Personal Care/Shaving/Women's Shaving Cream"
+"446","1005862","Personal Care","Personal Care","1005862_1001508","Sun Care","Personal Care/Sun Care","1005862_1001508_5548238","Zinc & Titanium Sunscreens","Personal Care/Sun Care/Zinc & Titanium Sunscreens"
+"447","5440","Pets","Pets","5440_228734","Birds","Pets/Birds","5440_228734_9404822","Bird Treats & Chews","Pets/Birds/Bird Treats & Chews"
+"448","5440","Pets","Pets","5440_202073","Cats","Pets/Cats","5440_202073_7258951","World's Best Cat Litter","Pets/Cats/World's Best Cat Litter"
+"449","5440","Pets","Pets","5440_3341696","Dog Baths & Tools","Pets/Dog Baths & Tools",NA,NA,NA
+"450","5440","Pets","Pets","5440_202072","Dogs","Pets/Dogs","5440_202072_2737733","Wet Dog Food","Pets/Dogs/Wet Dog Food"
+"451","5440","Pets","Pets","5440_202074","Fish","Pets/Fish","5440_202074_9893742","Wall Mounted Aquariums","Pets/Fish/Wall Mounted Aquariums"
+"452","5440","Pets","Pets","5440_1092244","Horses & Farm Animals","Pets/Horses & Farm Animals","5440_1092244_1018823","Livestock Feed","Pets/Horses & Farm Animals/Livestock Feed"
+"453","5440","Pets","Pets","5440_5578462","Pet Stain & Odor Remover","Pets/Pet Stain & Odor Remover",NA,NA,NA
+"454","5440","Pets","Pets","5440_7311103","Purina Natural Pet Food","Pets/Purina Natural Pet Food",NA,NA,NA
+"455","5440","Pets","Pets","5440_6833286","Reptile Supplies","Pets/Reptile Supplies","5440_6833286_2145246","Zoo Med Reptile Terrariums","Pets/Reptile Supplies/Zoo Med Reptile Terrariums"
+"456","5440","Pets","Pets","5440_1043917","Reptiles & Amphibians","Pets/Reptiles & Amphibians",NA,NA,NA
+"457","5440","Pets","Pets","5440_1001299","Small Animals","Pets/Small Animals","5440_1001299_5179042","Small Animal Treats","Pets/Small Animals/Small Animal Treats"
+"458","5426","Photo Center","Photo Center","5426_531183","Photo Products","Photo Center/Photo Products","5426_531183_1044304","Photo Products","Photo Center/Photo Products/Photo Products"
+"459","7924299","Premium Beauty","Premium Beauty","7924299_3571844","Bath & Body","Premium Beauty/Bath & Body","7924299_3571844_8252939","Value Sizes & Sets","Premium Beauty/Bath & Body/Value Sizes & Sets"
+"460","7924299","Premium Beauty","Premium Beauty","7924299_6526850","Beauty Tech & Skin Devices","Premium Beauty/Beauty Tech & Skin Devices",NA,NA,NA
+"461","7924299","Premium Beauty","Premium Beauty","7924299_6754293","Facial Skin Care","Premium Beauty/Facial Skin Care","7924299_6754293_5164502","Value Sizes & Sets","Premium Beauty/Facial Skin Care/Value Sizes & Sets"
+"462","7924299","Premium Beauty","Premium Beauty","7924299_9882925","Featured Brands","Premium Beauty/Featured Brands","7924299_9882925_8795812","Tonymoly","Premium Beauty/Featured Brands/Tonymoly"
+"463","7924299","Premium Beauty","Premium Beauty","7924299_9678309","Fragrance","Premium Beauty/Fragrance","7924299_9678309_6626508","Value Sizes & Sets","Premium Beauty/Fragrance/Value Sizes & Sets"
+"464","7924299","Premium Beauty","Premium Beauty","7924299_3522922","Hair Care","Premium Beauty/Hair Care","7924299_3522922_1696711","Styling Products","Premium Beauty/Hair Care/Styling Products"
+"465","7924299","Premium Beauty","Premium Beauty","7924299_1631422","Hair Tools & Accessories","Premium Beauty/Hair Tools & Accessories","7924299_1631422_7067540","Hair Rollers","Premium Beauty/Hair Tools & Accessories/Hair Rollers"
+"466","7924299","Premium Beauty","Premium Beauty","7924299_1417743","Makeup","Premium Beauty/Makeup","7924299_1417743_4735118","Nail Polish & Care","Premium Beauty/Makeup/Nail Polish & Care"
+"467","7924299","Premium Beauty","Premium Beauty","7924299_6351529","Men's Grooming","Premium Beauty/Men's Grooming","7924299_6351529_1940357","Travel Size","Premium Beauty/Men's Grooming/Travel Size"
+"468","7924299","Premium Beauty","Premium Beauty","7924299_4364956","Tools & Brushes","Premium Beauty/Tools & Brushes","7924299_4364956_4561872","Makeup Tools & Brushes","Premium Beauty/Tools & Brushes/Makeup Tools & Brushes"
+"469","7924299","Premium Beauty","Premium Beauty","7924299_4606564","Travel Size Beauty","Premium Beauty/Travel Size Beauty",NA,NA,NA
+"470","7924299","Premium Beauty","Premium Beauty","7924299_8303703","Value Sizes & Kits","Premium Beauty/Value Sizes & Kits",NA,NA,NA
+"471","7924299","Premium Beauty","Premium Beauty","7924299_7168672","Wellness","Premium Beauty/Wellness",NA,NA,NA
+"472","1085632","Seasonal","Seasonal","1085632_1229464","Avengers","Seasonal/Avengers","1085632_1229464_1229465","Avengers - Toys","Seasonal/Avengers/Avengers - Toys"
+"473","1085632","Seasonal","Seasonal","1085632_1071204","Back to School","Seasonal/Back to School","1085632_1071204_1225231","Morning Routine Essentials","Seasonal/Back to School/Morning Routine Essentials"
+"474","1085632","Seasonal","Seasonal","1085632_1230123","Back to School Top Items","Seasonal/Back to School Top Items",NA,NA,NA
+"475","1085632","Seasonal","Seasonal","1085632_5570258","Batman v Superman","Seasonal/Batman v Superman","1085632_5570258_9748434","Video Games","Seasonal/Batman v Superman/Video Games"
+"476","1085632","Seasonal","Seasonal","1085632_1098784","Character Corner","Seasonal/Character Corner","1085632_1098784_1098797","Lalaloopsy","Seasonal/Character Corner/Lalaloopsy"
+"477","1085632","Seasonal","Seasonal","1085632_2236515","Custom HTML Test Pages","Seasonal/Custom HTML Test Pages","1085632_2236515_2180024","Tango test shelf 1","Seasonal/Custom HTML Test Pages/Tango test shelf 1"
+"478","1085632","Seasonal","Seasonal","1085632_1225661","Disney Frozen","Seasonal/Disney Frozen","1085632_1225661_1225688","Movies, Music & Books","Seasonal/Disney Frozen/Movies, Music & Books"
+"479","1085632","Seasonal","Seasonal","1085632_1094344","Father's Day","Seasonal/Father's Day","1085632_1094344_7549154","Father's Day Grooming","Seasonal/Father's Day/Father's Day Grooming"
+"480","1085632","Seasonal","Seasonal","1085632_1105121","Gifts for Grads","Seasonal/Gifts for Grads","1085632_1105121_7594959","Electronics Gifts for Grads","Seasonal/Gifts for Grads/Electronics Gifts for Grads"
+"481","1085632","Seasonal","Seasonal","1085632_1100706","Healthy Living","Seasonal/Healthy Living","1085632_1100706_2785994","Sleep Health","Seasonal/Healthy Living/Sleep Health"
+"482","1085632","Seasonal","Seasonal","1085632_1229470","Jurassic World","Seasonal/Jurassic World","1085632_1229470_1229471","Jurassic Park Movies","Seasonal/Jurassic Park/Jurassic Park Movies"
+"483","1085632","Seasonal","Seasonal","1085632_1105934","Minions","Seasonal/Minions","1085632_1105934_1105932","Minions - Toys","Seasonal/Minions/Minions - Toys"
+"484","1085632","Seasonal","Seasonal","1085632_1093554","Mother's Day Gifts","Seasonal/Mother's Day Gifts","1085632_1093554_5742102","Mother's Day Electronics Gifts","Seasonal/Mother's Day Gifts/Mother's Day Electronics Gifts"
+"485","1085632","Seasonal","Seasonal","1085632_1229472","Star Wars","Seasonal/Star Wars","1085632_1229472_1229475","Star Wars Movies","Seasonal/Star Wars/Star Wars Movies"
+"486","1085632","Seasonal","Seasonal","1085632_1225660","Teenage Mutant Ninja Turtles","Seasonal/Teenage Mutant Ninja Turtles","1085632_1225660_1225691","Teenage Mutant Ninja Turtles Clothing","Seasonal/Teenage Mutant Ninja Turtles/Teenage Mutant Ninja Turtles Clothing"
+"487","1085632","Seasonal","Seasonal","1085632_7164281","US Military","Seasonal/US Military","1085632_7164281_7558608","US Navy","Seasonal/US Military/US Navy"
+"488","1085632","Seasonal","Seasonal","1085632_1094926","Women Owned Businesses","Seasonal/Women Owned Businesses","1085632_1094926_1102476","Empowering Women Photo Cards & Books","Seasonal/Women Owned Businesses/Empowering Women Photo Cards & Books"
+"489","1085632","Seasonal","Seasonal","1085632_1228561","WWE","Seasonal/WWE","1085632_1228561_1228564","WWE Video Games","Seasonal/WWE/WWE Video Games"
+"490","4125","Sports & Outdoors","Sports & Outdoors","4125_1081404","Bikes","Sports & Outdoors/Bikes","4125_1081404_7650685","Bike Components","Sports & Outdoors/Bikes/Bike Components"
+"491","4125","Sports & Outdoors","Sports & Outdoors","4125_4134","Exercise & Fitness","Sports & Outdoors/Exercise & Fitness","4125_4134_1078384","Yoga & Pilates","Sports & Outdoors/Exercise & Fitness/Yoga & Pilates"
+"492","4125","Sports & Outdoors","Sports & Outdoors","4125_546956","Outdoor Sports","Sports & Outdoors/Outdoor Sports","4125_546956_1075804","Winter Sports","Sports & Outdoors/Outdoor Sports/Winter Sports"
+"493","4125","Sports & Outdoors","Sports & Outdoors","4125_1224931","Recreation","Sports & Outdoors/Recreation","4125_1224931_5230","Trampolines","Sports & Outdoors/Recreation/Trampolines"
+"494","4125","Sports & Outdoors","Sports & Outdoors","4125_1063984","Sports Fan Shop","Sports & Outdoors/Sports Fan Shop","4125_1063984_1064124","Toys & Games Fan Shop","Sports & Outdoors/Sports Fan Shop/Toys & Games Fan Shop"
+"495","4125","Sports & Outdoors","Sports & Outdoors","4125_4161","Team Sports","Sports & Outdoors/Team Sports","4125_4161_1041862","Volleyball","Sports & Outdoors/Team Sports/Volleyball"
+"496","4171","Toys","Toys","4171_4172","Action Figures","Toys/Action Figures","4171_4172_2402766","WWE Action Figures","Toys/Action Figures/WWE Action Figures"
+"497","4171","Toys","Toys","4171_645779","Arts & Crafts for Kids","Toys/Arts & Crafts for Kids","4171_645779_2165088","Slime","Toys/Arts & Crafts for Kids/Slime"
+"498","4171","Toys","Toys","4171_4186","Building Sets & Blocks","Toys/Building Sets & Blocks","4171_4186_1105635","LEGO","Toys/Building Sets & Blocks/LEGO"
+"499","4171","Toys","Toys","4171_7357538","Character Shop","Toys/Character Shop","4171_7357538_3802039","Trolls Toys","Toys/Shop By Character/Trolls Toys"
+"500","4171","Toys","Toys","4171_4187","Dolls & Dollhouses","Toys/Dolls & Dollhouses","4171_4187_3693047","Little Live Pets","Toys/Dolls & Dollhouses/Little Live Pets"
+"501","4171","Toys","Toys","4171_5707299","Easter Toys","Toys/Easter Toys","4171_5707299_5041368","Easter Toys","Toys/Easter Toys/Easter Toys"
+"502","4171","Toys","Toys","4171_1096069","Electronics for Kids","Toys/Electronics for Kids","4171_1096069_1096128","Kids' Portable Audio","Toys/Electronics for Kids/Kids' Portable Audio"
+"503","4171","Toys","Toys","4171_4191","Games & Puzzles","Toys/Games & Puzzles","4171_4191_9807313","Trading Cards","Toys/Games & Puzzles/Trading Cards"
+"504","4171","Toys","Toys","4171_2229239","Hobby & Collectibles","Toys/Hobby & Collectibles","4171_2229239_4732279","Rockets","Toys/Hobby & Collectibles/Rockets"
+"505","4171","Toys","Toys","4171_133073","Kids' Bikes & Riding Toys","Toys/Kids' Bikes & Riding Toys","4171_133073_91644","Wagons","Toys/Kids' Bikes & Riding Toys/Wagons"
+"506","4171","Toys","Toys","4171_56125","Learning Toys","Toys/Learning Toys","4171_56125_1229854","Wooden Toys","Toys/Learning Toys/Wooden Toys"
+"507","4171","Toys","Toys","4171_1015079","Musical Instruments & Karaoke","Toys/Musical Instruments & Karaoke","4171_1015079_133194","Microphones & Headphones","Toys/Musical Instruments & Karaoke/Microphones & Headphones"
+"508","4171","Toys","Toys","4171_7707821","NERF","Toys/NERF","4171_7707821_9253160","NERF Guns, Blasters & Accessories","Toys/NERF/NERF Guns, Blasters & Accessories"
+"509","4171","Toys","Toys","4171_14521","Outdoor Play","Toys/Outdoor Play","4171_14521_6449441","Swing Sets","Toys/Outdoor Play/Swing Sets"
+"510","4171","Toys","Toys","4171_4173","Pretend Play & Dress Up","Toys/Pretend Play & Dress Up","4171_4173_1077124","Tools & Workshops","Toys/Pretend Play & Dress Up/Tools & Workshops"
+"511","4171","Toys","Toys","4171_1111647","Remote Control & Play Vehicles","Toys/Remote Control & Play Vehicles","4171_1111647_132912","Trains & Train Sets","Toys/Remote Control & Play Vehicles/Trains & Train Sets"
+"512","4171","Toys","Toys","4171_132874","Stuffed Animals & Plush","Toys/Stuffed Animals & Plush",NA,NA,NA
+"513","4171","Toys","Toys","4171_2724815","Stuffed Animals & Plush Toys","Toys/Stuffed Animals & Plush Toys","4171_2724815_5048491","Valentine's Day Stuffed Animals","Toys/Stuffed Animals & Plush Toys/Valentine's Day Stuffed Animals"
+"514","4171","Toys","Toys","4171_1228385","Top Rated Toys","Toys/Top Rated Toys","4171_1228385_1228386","Top Rated Toys by Kids","Toys/Top Rated Toys/Top Rated Toys by Kids"
+"515","4171","Toys","Toys","4171_6331649","Walmart Exclusives","Toys/Walmart Exclusives","4171_6331649_1447421","Spark Create Imagine","Toys/Walmart Exclusives/Spark Create Imagine"
+"516","2636","Video Games","Video Games","2636_1040581","Accessories for Nintendo, PC, Xbox and PlayStation Systems","Video Games/Accessories for Nintendo, PC, Xbox and PlayStation Systems",NA,NA,NA
+"517","2636","Video Games","Video Games","2636_4952188","Digital Games","Video Games/Digital Games","2636_4952188_1224741","Digital Games","Video Games/Digital Games/Digital Games"
+"518","2636","Video Games","Video Games","2636_1228600","Gaming Gift Cards","Video Games/Gaming Gift Cards","2636_1228600_1102579","Xbox Live Cards","Video Games/Gaming Gift Cards/Xbox Live Cards"
+"519","2636","Video Games","Video Games","2636_1089666","Kids and Family Games","Video Games/Kids and Family Games",NA,NA,NA
+"520","2636","Video Games","Video Games","2636_1086580","Nintendo 3DS \/ 2DS \/ DS \/ DSi","Video Games/Nintendo 3DS \/ 2DS \/ DS \/ DSi","2636_1086580_1225028","Nintendo DS\/Dsi Games","Video Games/Nintendo 3DS \/ 2DS \/ DS \/ DSi/Nintendo DS\/Dsi Games"
+"521","2636","Video Games","Video Games","2636_7054994","Nintendo NES Classic + Super NES Classic","Video Games/Nintendo NES Classic + Super NES Classic",NA,NA,NA
+"522","2636","Video Games","Video Games","2636_4646529","Nintendo Switch","Video Games/Nintendo Switch","2636_4646529_4234943","Nintendo Switch Games","Video Games/Nintendo Switch/Nintendo Switch Games"
+"523","2636","Video Games","Video Games","2636_1098124","Nintendo Wii U \/ Wii","Video Games/Nintendo Wii U \/ Wii","2636_1098124_1095827","Nintendo Wii U Games","Video Games/Nintendo Wii U \/ Wii/Nintendo Wii U Games"
+"524","2636","Video Games","Video Games","2636_1077504","PC Gaming","Video Games/PC Gaming","2636_1077504_9551409","PC Gaming USB Controllers + Joysticks","Video Games/PC Gaming/PC Gaming USB Controllers + Joysticks"
+"525","2636","Video Games","Video Games","2636_413799","PlayStation 3","Video Games/PlayStation 3","2636_413799_1225017","PlayStation 3 Consoles","Video Games/PlayStation 3/PlayStation 3 Consoles"
+"526","2636","Video Games","Video Games","2636_1102672","PlayStation 4 Consoles, Games, Controllers + More","Video Games/PlayStation 4 Consoles, Games, Controllers + More","2636_1102672_1106096","PlayStation 4 Consoles","Video Games/PlayStation 4 Consoles, Games, Controllers + More/PlayStation 4 Consoles"
+"527","2636","Video Games","Video Games","2636_1091824","PlayStation TV\/ Vita","Video Games/PlayStation TV\/ Vita","2636_1091824_1225015","PlayStation Vita Games","Video Games/PlayStation TV\/ Vita/PlayStation Vita Games"
+"528","2636","Video Games","Video Games","2636_1056224","Refurbished\/Preowned Video Games, Consoles & Accessories","Video Games/Refurbished\/Preowned Video Games, Consoles & Accessories","2636_1056224_6678351","Refurbished Video Games Accessories","Video Games/Refurbished\/Preowned Video Games, Consoles & Accessories/Refurbished Video Games Accessories"
+"529","2636","Video Games","Video Games","2636_1101552","Retro Gaming","Video Games/Retro Gaming","2636_1101552_3359629","Retro Gaming Software","Video Games/Retro Gaming Consoles, Accessories & Games/Retro Gaming Software"
+"530","2636","Video Games","Video Games","2636_4240495","Shop by Video Game Franchise","Video Games/Shop by Video Game Franchise","2636_4240495_5944325","Titanfall Game Series For Xbox, PlayStation","Video Games/Shop by Video Game Franchise/Titanfall Game Series For Xbox, PlayStation"
+"531","2636","Video Games","Video Games","2636_1093225","Skylanders","Video Games/Skylanders","2636_1093225_1225064","Skylanders Trap Team","Video Games/Skylanders/Skylanders Trap Team"
+"532","2636","Video Games","Video Games","2636_1229019","Video Game Accessories","Video Games/Video Game Accessories","2636_1229019_5206874","Video Game Racing Wheels for PC, Nintendo, Xbox or PlayStation","Video Games/Video Game Accessories/Video Game Racing Wheels for PC, Nintendo, Xbox or PlayStation"
+"533","2636","Video Games","Video Games","2636_1040580","Video Game Consoles","Video Games/Video Game Consoles",NA,NA,NA
+"534","2636","Video Games","Video Games","2636_1040579","Video Game Titles","Video Games/Video Game Titles",NA,NA,NA
+"535","2636","Video Games","Video Games","2636_1092764","Video Game Value Bundles","Video Games/Video Game Value Bundles",NA,NA,NA
+"536","2636","Video Games","Video Games","2636_582506","Video Games Strategy Guides","Video Games/Video Games Strategy Guides","2636_582506_595094","General","Video Games/Video Games Strategy Guides/General"
+"537","2636","Video Games","Video Games","2636_5454301","Virtual Reality","Video Games/Virtual Reality","2636_5454301_6898598","VR Headsets","Video Games/Virtual Reality/VR Headsets"
+"538","2636","Video Games","Video Games","2636_482412","Xbox 360 Consoles, Games, Accessories","Video Games/Xbox 360 Consoles, Games, Accessories","2636_482412_7777522","Xbox 360 Headsets + Microphones","Video Games/Xbox 360 Consoles, Games, Accessories/Xbox 360 Headsets + Microphones"
+"539","2636","Video Games","Video Games","2636_2145442","Xbox Enhanced Games","Video Games/Xbox Enhanced Games",NA,NA,NA
+"540","2636","Video Games","Video Games","2636_1224908","Xbox One Consoles, Games & Accessories","Video Games/Xbox One Consoles, Games & Accessories","2636_1224908_5566473","Xbox One Headsets","Video Games/Xbox One Consoles, Games & Accessories/Xbox One Headsets"
+"541","6735581","Walmart for Business","Walmart for Business","6735581_3020544","Basic Office Supplies","Walmart for Business/Basic Office Supplies","6735581_3020544_3205810","Staplers and Punches","Walmart for Business/Basic Office Supplies/Staplers and Punches"
+"542","6735581","Walmart for Business","Walmart for Business","6735581_9628175","Business Furniture","Walmart for Business/Business Furniture","6735581_9628175_9598263","Presentation Boards","Walmart for Business/Business Furniture/Presentation Boards"
+"543","6735581","Walmart for Business","Walmart for Business","6735581_2675502","Business Printing","Walmart for Business/Business Printing","6735581_2675502_6021439","Labelers and Refills","Walmart for Business/Business Printing/Labelers and Refills"
+"544","6735581","Walmart for Business","Walmart for Business","6735581_8499989","Business Software, Books and Media","Walmart for Business/Business Software, Books and Media","6735581_8499989_9189964","Taxes and Accounting Software","Walmart for Business/Business Software, Books and Media/Taxes and Accounting Software"
+"545","6735581","Walmart for Business","Walmart for Business","6735581_6619002","Office Electronics","Walmart for Business/Office Electronics","6735581_6619002_1893340","Laminators","Walmart for Business/Office Electronics/Laminators"
+"546","6735581","Walmart for Business","Walmart for Business","6735581_7802075","Office Organizers","Walmart for Business/Office Organizers","6735581_7802075_6070034","Filing Products","Small Business Center/Office Organizers/Filing Products"
+"547","6735581","Walmart for Business","Walmart for Business","6735581_1549303","Office Paper and Stationery","Walmart for Business/Office Paper and Stationery","6735581_1549303_8704858","Sticky Notes","Walmart for Business/Office Paper and Stationery/Sticky Notes"
+"548","6735581","Walmart for Business","Walmart for Business","6735581_5478639","Pen+Gear Office Products","Walmart for Business/Pen+Gear Office Products",NA,NA,NA
+"549","6735581","Walmart for Business","Walmart for Business","6735581_4452444","Retail Essentials","Walmart for Business/Retail Essentials","6735581_4452444_9288464","Time Clocks and Cards","Walmart for Business/Retail Store Supplies/Time Clocks and Cards"
+"550","6735581","Walmart for Business","Walmart for Business","6735581_6919605","Shipping and Moving for Business","Walmart for Business/Shipping and Moving for Business","6735581_6919605_3637763","Shipping Labels and Label Printers","Walmart for Business/Shipping and Moving for Business/Shipping Labels and Label Printers"
+"551","6735581","Walmart for Business","Walmart for Business","6735581_4455635","Small Business Breakroom Supplies","Walmart for Business/Small Business Breakroom Supplies","6735581_4455635_2778632","Snacks","Walmart for Business/Small Business Breakroom Supplies/Snacks"
+"552","6735581","Walmart for Business","Walmart for Business","6735581_8305665","Tax Prep Essentials","Walmart for Business/Tax Prep Essentials","6735581_8305665_3835101","Essentials for Tax Professionals","Walmart for Business/Tax Prep Essentials/Essentials for Tax Professionals"
+"553","6735581","Walmart for Business","Walmart for Business","6735581_4705218","Writing Supplies for Business","Walmart for Business/Writing Supplies for Business","6735581_4705218_8739972","Pens and Refills","Walmart for Business/Writing Supplies for Business/Pens and Refills"
